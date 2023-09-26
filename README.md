@@ -6,7 +6,8 @@
 Microchip AVR64DD32
 * https://www.youtube.com/watch?v=M-myqg-2c5s
 * https://github.com/SpenceKonde/DxCore
-* [SerialUPDI programmer](https://www.tindie.com/products/mcudude/serialupdi-programmer) 
+* [SerialUPDI programmer](https://www.tindie.com/products/mcudude/serialupdi-programmer)
+
 Programming Optiboot Bootloader with SerialUPDI programmer via UPDI Target Header on Development Board.
  
 
@@ -18,7 +19,6 @@ Programming Optiboot Bootloader with SerialUPDI programmer via UPDI Target Heade
 <br>
 <img src="Images/IMG_3669_20.jpg" alt="polylab" width="50%">
 Connected to TTN ...  (RFM95-Modul on mikroBUS-Adapter, Bosch Sensor & Display on I2C Grove-Asapter)
-<br>
 <br>
 
 * (https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery)
