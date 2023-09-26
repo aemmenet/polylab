@@ -5,5 +5,6 @@
 * [TinyGPSPlus](https://github.com/mikalhart/TinyGPSPlus)
 * (https://github.com/mikalhart/TinyGPSPlus)
 * https://github.com/mikalhart/TinyGPSPlus
-<br>  
+<br>
+<br>
 <img src="Images/IMG_3669_20.jpg" alt="polylab" width="50%">
