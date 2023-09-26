@@ -33,15 +33,15 @@ RFM95W-Modul on mikroBUS-Adapter, Bosch BME280 Sensor & OLED Display on I2C Grov
 <br>
 
 ### Peripheral connectors
-"polylab" board pinheaders
-mikroBUS™ compatible socket header 
-2 x Grove connector (i2C & UART)
+"polylab" board pinheaders  
+mikroBUS™ compatible socket header  
+2 x Grove connector (i2C & UART)  
 1 x Qwiic® connector
    
 ### Power Supply Connectors
-Barrel Jack  7-15V DC, 3.5*1.3mm
-MicroUSB with CH340N USB to UART converter
-JST PH 2.0  for LiPo battery with MCP73831 charge controller
+Barrel Jack  7-15V DC, 3.5*1.3mm  
+MicroUSB with CH340N USB to UART converter  
+JST PH 2.0  for LiPo battery with MCP73831 charge controller  
 6 pin UPDI-target-header
 
 ### Planned:
