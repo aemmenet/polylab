@@ -20,6 +20,9 @@ Programming Optiboot Bootloader with SerialUPDI programmer via UPDI Target Heade
  
 
 ### mikroBUS:
+
+<img src="Images/IMG_3666_20.jpg" alt="polylab" width="50%">
+
 * https://www.mikroe.com/mikrobus
 * https://www.mikroe.com/click
 * [Sensirion & mikroBUS](https://developer.sensirion.com/partner-spotlight/partner-spotlight-mikroelektronika)
