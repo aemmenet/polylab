@@ -4,13 +4,14 @@
 
 ### Physical:
 2 layer board made with KiCad 7 EDA
+
 proprietary form factor: 1/2 credit card size ( 53.98 x 42.8 mm)
+
 2 x 19 pin pinheader with proprietary "polylab" pinout
+
 "polylab" shields stackable or side by side with doubler board
+
 fits in 3D printed case programmed with OpenSCAD modeller
-
-
-![grafik](https://github.com/aemmenet/polylab/assets/33204954/943f8cff-6b42-4f77-b3c2-3b0898c6df91)
 
 
 ### MCU:
