@@ -6,6 +6,7 @@
 Microchip AVR64DD32
 * https://www.youtube.com/watch?v=M-myqg-2c5s
 * https://github.com/SpenceKonde/DxCore
+* [SerialUPDI programmer] (https://www.tindie.com/products/mcudude/serialupdi-programmer)
 
 ### mikroBUS:
 * https://www.mikroe.com/mikrobus
