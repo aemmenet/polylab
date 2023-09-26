@@ -13,6 +13,7 @@ Microchip AVR64DD32
 <br>
 <br>
 <img src="Images/IMG_3669_20.jpg" alt="polylab" width="50%">
+Connected to TTN ...
 <br>
 <br>
 
