@@ -40,11 +40,11 @@ mikroBUS™ compatible socket header
    
 ### Power Supply Connectors
 Barrel Jack  7-15V DC, 3.5*1.3mm  
-MicroUSB with CH340N USB to UART converter  
-JST PH 2.0  for LiPo battery with MCP73831 charge controller  
+MicroUSB (CH340N USB to UART converter)  
+JST PH 2.0  for LiPo battery (MCP73831 charge controller)  
 6 pin UPDI-target-header
 
-This board is still a work in progress. There is a list of about 25 changes or improvenents for the next Version.
+This board is still a work in progress. There is a list of about 25 changes or improvenents for the next version.
 
 ### Planned:
 
