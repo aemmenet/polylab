@@ -44,6 +44,8 @@ MicroUSB with CH340N USB to UART converter
 JST PH 2.0  for LiPo battery with MCP73831 charge controller  
 6 pin UPDI-target-header
 
+This board is still a work in progress. There is a list of about 25 changes or improvenents for the next Version.
+
 ### Planned:
 
 * (https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery)
