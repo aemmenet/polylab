@@ -46,7 +46,11 @@ GPS-Module and LiPo-Cell added & tested (--> TTN Mapper) ...
 <br>
 <br>
 
-
+<br>  
+<img src="Images/IMG_3677_20.jpg" alt="polylab" width="50%">
+...
+<br>
+<br>
 
 ### Peripheral connectors
 2 x 19 pin pinheader with proprietary "polylab" pinout  
