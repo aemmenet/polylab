@@ -15,7 +15,7 @@ Microchip AVR64DD32
 <img src="Images/IMG_3669_20.jpg" alt="polylab" width="50%">
 <br>
 <br>
-* [TinyGPSPlus](https://github.com/mikalhart/TinyGPSPlus)
+
 
 * [TinyGPSPlus](https://github.com/mikalhart/TinyGPSPlus)
 
