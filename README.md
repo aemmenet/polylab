@@ -11,7 +11,7 @@ fits in 3D printed case programmed with OpenSCAD modeller
 
 
 ### MCU:
-Microchip AVR64DD32
+Microchip AVR64DD32 (QFP32 socket)
 * https://www.youtube.com/watch?v=M-myqg-2c5s
 * https://github.com/SpenceKonde/DxCore
 * [SerialUPDI programmer](https://www.tindie.com/products/mcudude/serialupdi-programmer)
@@ -39,12 +39,12 @@ mikroBUS™ compatible socket header
 1 x Qwiic® connector
    
 ### Power Supply Connectors
-Barrel Jack  7-15V DC, 3.5*1.3mm  
+Barrel Jack  7-12V DC, 3.5*1.3mm (AMS1117-5.0)  
 MicroUSB (CH340N USB to UART converter)  
 JST PH 2.0  for LiPo battery (MCP73831 charge controller)  
 6 pin UPDI-target-header
 
-This board is still a work in progress. There is a list of about 25 changes or improvenents for the next version.
+This board is still a work in progress. There is a list of about 25 changes or improvements for the next version.
 
 ### Planned:
 
