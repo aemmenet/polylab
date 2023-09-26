@@ -1,4 +1,4 @@
-# "polylab"-Development Board
+# "polylab"-Development Board by Aemme.Net
 
 <img src="Images/IMG_3666_20.jpg" alt="polylab" width="50%">
 
