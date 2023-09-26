@@ -6,7 +6,9 @@
 Microchip AVR64DD32
 * https://www.youtube.com/watch?v=M-myqg-2c5s
 * https://github.com/SpenceKonde/DxCore
-* [SerialUPDI programmer] (https://www.tindie.com/products/mcudude/serialupdi-programmer)
+* [SerialUPDI programmer](https://www.tindie.com/products/mcudude/serialupdi-programmer)
+Programming Optiboot with SerialUPDI programmer via UPDI Target Header on Development Board.
+ 
 
 ### mikroBUS:
 * https://www.mikroe.com/mikrobus
