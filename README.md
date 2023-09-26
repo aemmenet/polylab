@@ -40,6 +40,13 @@ Graphics test with SPI TFT on mikroBUS...
 <br>
 <br>
 
+<br>  
+<img src="Images/IMG_3685_20.jpg" alt="polylab" width="50%">
+GPS-Module and LiPo-Cell added & tested (--> TTN Mapper) ...
+<br>
+<br>
+
+
 
 ### Peripheral connectors
 2 x 19 pin pinheader with proprietary "polylab" pinout  
