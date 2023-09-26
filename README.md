@@ -34,6 +34,15 @@ RFM95W-Modul on mikroBUS-Adapter, Bosch BME280 Sensor & OLED Display on I2C Grov
 <br>
 <br>
 
+<br>  
+<img src="Images/IMG_3674_20.jpg" alt="polylab" width="50%">
+Graphics test with SPI TFT on mikroBUS... (
+
+RFM95W-Modul on mikroBUS-Adapter, Bosch BME280 Sensor & OLED Display on I2C Grove-Asapter
+<br>
+<br>
+
+
 ### Peripheral connectors
 2 x 19 pin pinheader with proprietary "polylab" pinout  
 mikroBUS™ compatible socket header  
