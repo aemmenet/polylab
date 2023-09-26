@@ -1,4 +1,4 @@
-## "polylab" Microchip AVR DX32 Development-Board by Aemme.Net
+## "polylab" Microchip AVR Dx32 Development-Board by Aemme.Net
 
 <img src="Images/IMG_3665_20.jpg" alt="polylab" width="50%">
 
