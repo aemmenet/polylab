@@ -22,6 +22,7 @@ Connected to TTN ...  (RFM95-Modul on mikroBUS-Adapter, Bosch Sensor & Display o
 <br>
 <br>
 ### Planned:
+
 * (https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery)
 
 
