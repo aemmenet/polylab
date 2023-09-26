@@ -18,6 +18,6 @@ Connected to TTN ...
 <br>
 <br>
 
-* [](https://github.com/mikalhart/TinyGPSPlus)
+* (https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery)
 
 
