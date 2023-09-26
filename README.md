@@ -33,7 +33,7 @@ RFM95W-Modul on mikroBUS-Adapter, Bosch BME280 Sensor & OLED Display on I2C Grov
 <br>
 
 ### Peripheral connectors
-"polylab" board pinheaders  
+2 x 19 pin pinheader with proprietary "polylab" pinout  
 mikroBUS™ compatible socket header  
 2 x Grove connector (i2C & UART)  
 1 x Qwiic® connector
