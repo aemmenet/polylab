@@ -53,16 +53,16 @@ GPS-Module and LiPo-Cell added & tested (--> TTN Mapper) ...
 <br>
 
 ### Peripheral connectors
-2 x 19 pin pinheader with proprietary "polylab" pinout  
-mikroBUS™ compatible socket header  
-2 x Grove connector (i2C & UART)  
-1 x Qwiic® connector
+- 2 x 19 pin pinheader with proprietary "polylab" pinout  
+- mikroBUS™ compatible socket header  
+- 2 x Grove connector (i2C & UART)  
+- 1 x Qwiic® connector
    
 ### Power Supply Connectors
-Barrel Jack  7-12V DC, 3.5*1.3mm (AMS1117-5.0)  
-MicroUSB (CH340N USB to UART converter)  
-JST PH 2.0  for LiPo battery (MCP73831 charge controller)  
-6 pin UPDI-target-header
+- Barrel Jack  7-12V DC, 3.5*1.3mm (AMS1117-5.0)  
+- MicroUSB (CH340N USB to UART converter)  
+- JST PH 2.0  for LiPo battery (MCP73831 charge controller)  
+- 6 pin UPDI-target-header
 
 This board is still a work in progress. There is a list of about 25 changes or improvements for the next version.
 
