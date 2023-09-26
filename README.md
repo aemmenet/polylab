@@ -30,7 +30,7 @@ Programming Optiboot Bootloader with SerialUPDI programmer via UPDI Target Heade
 <img src="Images/IMG_3669_20.jpg" alt="polylab" width="50%">
 Connected to TTN ...
 
-RFM95W-Modul on mikroBUS-Adapter, Bosch BME280 Sensor & OLED Display on I2C Grove-Asapter
+RFM95W-Modul on mikroBUS-Adapter, Bosch BME280 Sensor & OLED Display SSD1306 on I2C Grove-Asapter
 <br>
 <br>
 
