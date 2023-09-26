@@ -16,6 +16,7 @@ Microchip AVR64DD32
 <br>
 <br>
 * [TinyGPSPlus](https://github.com/mikalhart/TinyGPSPlus)
-* (https://github.com/mikalhart/TinyGPSPlus)
-* https://github.com/mikalhart/TinyGPSPlus
+
+* [TinyGPSPlus](https://github.com/mikalhart/TinyGPSPlus)
+
 
