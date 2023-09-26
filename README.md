@@ -18,7 +18,8 @@ Programming Optiboot Bootloader with SerialUPDI programmer via UPDI Target Heade
 <br>
 <br>
 <img src="Images/IMG_3669_20.jpg" alt="polylab" width="50%">
-Connected to TTN ...  (RFM95-Modul on mikroBUS-Adapter, Bosch Sensor & Display on I2C Grove-Asapter) 
+Connected to TTN ...  (RFM95-Modul on mikroBUS-Adapter, Bosch Sensor & Display on I2C Grove-Asapter)
+
 
 * (https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery)
 
