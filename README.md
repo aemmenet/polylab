@@ -18,7 +18,7 @@ Programming Optiboot with SerialUPDI programmer via UPDI Target Header on Develo
 <br>
 <br>
 <img src="Images/IMG_3669_20.jpg" alt="polylab" width="50%">
-Connected to TTN ...  (RFM95-Modul on mikroBUS Adapter)
+Connected to TTN ...  (RFM95-Modul on mikroBUS-Adapter, Bosch Sensor & Display on I2C Grove-Asapter)
 <br>
 <br>
 
