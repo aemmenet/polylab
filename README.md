@@ -85,9 +85,9 @@ RFM95W
 
 NeoPixel
 
-<img src="Images/IMG_3732_20.jpg" alt="LED" width="50%">
+<img src="Images/IMG_3728_20.jpg" alt="LED" width="50%">
 
-LED on all pins
+LED on all pins for testing
 
 
 ### Planned:
