@@ -24,13 +24,13 @@ Microchip AVR64DD32 (QFP32 socket)
 Programming Optiboot Bootloader with SerialUPDI programmer via UPDI Target Header on Development Board.
  
 
-### mikroBUS:
+### mikroBUS™:
 
 <img src="Images/IMG_3666_20.jpg" alt="polylab" width="50%">
 
 * https://www.mikroe.com/mikrobus
 * https://www.mikroe.com/click
-* [Sensirion & mikroBUS](https://developer.sensirion.com/partner-spotlight/partner-spotlight-mikroelektronika)
+* [Sensirion & mikroBUS™](https://developer.sensirion.com/partner-spotlight/partner-spotlight-mikroelektronika)
 
 
 ### Experimental Test Sketches:  
@@ -39,13 +39,13 @@ based on Arduino IDE Examples für Custom Libraries
 <img src="Images/IMG_3669_20.jpg" alt="polylab" width="50%">
 Connected to TTN ...
 
-RFM95W-Modul on mikroBUS-Adapter, Bosch BME280 Sensor & OLED Display SSD1306 on I2C Grove-Asapter
+RFM95W-Modul on mikroBUS™-Adapter, Bosch BME280 Sensor & OLED Display SSD1306 on I2C Grove-Asapter
 <br>
 <br>
 
 <br>  
 <img src="Images/IMG_3674_20.jpg" alt="polylab" width="50%">
-Graphics test with SPI TFT on mikroBUS...
+Graphics test with SPI TFT on mikroBUS™...
 <br>
 <br>
 
@@ -75,7 +75,7 @@ Still needs to be synced with RTC or GPS ...
 
 This board is still a work in progress. There is a list of about 25 changes or improvements for the next version.
 
-### DIY mikroBUS compatibles Modules:
+### DIY mikroBUS™ compatibles Modules:
 
 <img src="Images/IMG_3731_20.jpg" alt="RFM95W" width="50%">
 
