@@ -1,8 +1,9 @@
 ## "polylab" Microchip AVR Dx32 Development-Board by Aemme.Net
 
+### Physical:
+
 <img src="Images/IMG_3665_20.jpg" alt="polylab" width="50%">
 
-### Physical:
 - 2 layer board made with KiCad 7 EDA  
 - proprietary form factor: 1/2 credit card size ( 53.98 x 42.8 mm)  
 - 2 x 19 pin pinheader with proprietary "polylab" pinout  
@@ -11,6 +12,9 @@
 
 
 ### MCU:
+
+<img src="Images/Microchip.jpg" alt="polylab" width="50%">
+
 Microchip AVR64DD32 (QFP32 socket)
 * https://www.youtube.com/watch?v=M-myqg-2c5s
 * https://github.com/SpenceKonde/DxCore
