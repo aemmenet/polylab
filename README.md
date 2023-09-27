@@ -79,5 +79,6 @@ This board is still a work in progress. There is a list of about 25 changes or i
 
 * (https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery)
 
- - fits in 3D printed case programmed with OpenSCAD modeller  
+ - Customize 3D printed case programmed with OpenSCAD modeller  
+<img src="Images/IMG_3324_20.jpg" alt="case" width="25%">
 
