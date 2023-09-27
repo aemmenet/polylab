@@ -37,30 +37,16 @@ Programming Optiboot Bootloader with SerialUPDI programmer via UPDI Target Heade
 ### First Experimental Tests:  
 based on Arduino IDE Examples für Custom Libraries
 
-<img src="Images/IMG_3669_20.jpg" alt="polylab" width="50%">
-Connected to TTN ...
+<img src="Images/IMG_3669_20.jpg" alt="polylab" width="50%"> Connected to TTN ...
 
 RFM95W-Modul on mikroBUS™-Adapter, Bosch BME280 Sensor & OLED Display SSD1306 on I2C Grove-Asapter
-<br>
-<br>
+ 
+<img src="Images/IMG_3674_20.jpg" alt="polylab" width="50%"> Graphics test with SPI TFT on mikroBUS™...
+ 
+<img src="Images/IMG_3685_20.jpg" alt="polylab" width="50%"> GPS-Module and LiPo-Cell added & tested (--> TTN Mapper) ...
 
-<br>  
-<img src="Images/IMG_3674_20.jpg" alt="polylab" width="50%">
-Graphics test with SPI TFT on mikroBUS™...
-<br>
-<br>
+<img src="Images/IMG_3677_20.jpg" alt="polylab" width="50%"> Still needs to be synced with RTC or GPS ...
 
-<br>  
-<img src="Images/IMG_3685_20.jpg" alt="polylab" width="50%">
-GPS-Module and LiPo-Cell added & tested (--> TTN Mapper) ...
-<br>
-<br>
-
-<br>  
-<img src="Images/IMG_3677_20.jpg" alt="polylab" width="50%">
-Still needs to be synced with RTC or GPS ...
-<br>
-<br>
 
 ### Peripheral Connectors
 - 2 x 19 pin pinheader with proprietary "polylab" pinout  
