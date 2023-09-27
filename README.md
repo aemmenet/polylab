@@ -79,15 +79,15 @@ This board is still a work in progress. There is a list of about 25 changes or i
 
 <img src="Images/IMG_3731_20.jpg" alt="RFM95W" width="50%">
 
-...
+RFM95W
 
 <img src="Images/IMG_3730_20.jpg" alt="NeoPixel" width="50%">
 
-...
+NeoPixel
 
-<img src="Images/IMG_3731_20.jpg" alt="LED" width="50%">
+<img src="Images/IMG_3732_20.jpg" alt="LED" width="50%">
 
-...
+LED on all pins
 
 
 ### Planned:
