@@ -21,14 +21,14 @@ Microchip AVR64DD32 (QFP32 socket)
 * https://github.com/SpenceKonde/DxCore
 * [SerialUPDI programmer](https://www.tindie.com/products/mcudude/serialupdi-programmer)
 
-<img src="Images/IMG_3732_20.jpg" alt="polylab" width="25%">
+<img src="Images/IMG_3732_20.jpg" alt="polylab" width="50%">
 
 Programming Optiboot Bootloader with SerialUPDI programmer via UPDI Target Header on Development Board.
  
 
 ### mikroBUS™:
 
-<img src="Images/IMG_3666_20.jpg" alt="polylab" width="25%">
+<img src="Images/IMG_3666_20.jpg" alt="polylab" width="50%">
 
 * https://www.mikroe.com/mikrobus
 * https://www.mikroe.com/click
@@ -38,7 +38,7 @@ Programming Optiboot Bootloader with SerialUPDI programmer via UPDI Target Heade
 ### Experimental Tests:  
 based on Arduino IDE Examples für Custom Libraries
 
-<img src="Images/IMG_3669_20.jpg" alt="polylab" width="25%">
+<img src="Images/IMG_3669_20.jpg" alt="polylab" width="50%">
 Connected to TTN ...
 
 RFM95W-Modul on mikroBUS™-Adapter, Bosch BME280 Sensor & OLED Display SSD1306 on I2C Grove-Asapter
@@ -46,19 +46,19 @@ RFM95W-Modul on mikroBUS™-Adapter, Bosch BME280 Sensor & OLED Display SSD1306 
 <br>
 
 <br>  
-<img src="Images/IMG_3674_20.jpg" alt="polylab" width="25%">
+<img src="Images/IMG_3674_20.jpg" alt="polylab" width="50%">
 Graphics test with SPI TFT on mikroBUS™...
 <br>
 <br>
 
 <br>  
-<img src="Images/IMG_3685_20.jpg" alt="polylab" width="25%">
+<img src="Images/IMG_3685_20.jpg" alt="polylab" width="50%">
 GPS-Module and LiPo-Cell added & tested (--> TTN Mapper) ...
 <br>
 <br>
 
 <br>  
-<img src="Images/IMG_3677_20.jpg" alt="polylab" width="25%">
+<img src="Images/IMG_3677_20.jpg" alt="polylab" width="50%">
 Still needs to be synced with RTC or GPS ...
 <br>
 <br>
