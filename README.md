@@ -32,7 +32,8 @@ Programming Optiboot Bootloader with SerialUPDI programmer via UPDI Target Heade
 * [Sensirion & mikroBUS](https://developer.sensirion.com/partner-spotlight/partner-spotlight-mikroelektronika)
 
 
-### Test Sketches: (based on Arduino IDE Examples für Custom Libraries)
+### Experimental Test Sketches:  
+based on Arduino IDE Examples für Custom Libraries
 
 <img src="Images/IMG_3669_20.jpg" alt="polylab" width="50%">
 Connected to TTN ...
