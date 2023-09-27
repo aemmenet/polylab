@@ -68,10 +68,6 @@ This board is still a work in progress. There is a list of about 25 changes or i
 
 <img src="Images/IMG_3728_20.jpg" alt="LED" title="LED" width="25%"> LED's on all pins for mikroBUS™ testing
 
-#### Planned:
-
-* (https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery)
-
 
 #### "polylab"-PCB:
 
@@ -80,3 +76,9 @@ This board is still a work in progress. There is a list of about 25 changes or i
 <img src="Images/IMG_3727_20.jpg" alt="breadboard" width="25%"> on breadboard
 
 <img src="Images/IMG_3729_20.jpg" alt="stacking" width="25%"> stacked
+
+#### Planned:
+
+* (https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery)
+
+
