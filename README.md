@@ -1,4 +1,4 @@
-## "polylab" Microchip AVR Dx32 Development-Board by Aemme.Net
+## "polylab" Microchip AVR Dx32-Series Development-Board by Aemme.Net
 
 ### Hardware:
 
