@@ -91,6 +91,8 @@ This board is still a work in progress. There is a list of about 25 changes or i
 
 #### "polylab"-PCB's:
 
-<img src="Images/IMG_3726_20.jpg" alt="side by side" width="25%"> side by side on doubler Board 
-<img src="Images/IMG_3727_20.jpg" alt="breadboard" width="25%"> on bradboard 
-<img src="Images/IMG_3729_20.jpg" alt="stacking" width="25%"> stacking 
+<img src="Images/IMG_3726_20.jpg" alt="side by side" width="25%"> side by side on doubler Board
+
+<img src="Images/IMG_3727_20.jpg" alt="breadboard" width="25%"> on bradboard
+
+<img src="Images/IMG_3729_20.jpg" alt="stacking" width="25%"> stacking
