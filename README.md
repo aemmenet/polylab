@@ -87,9 +87,12 @@ Breakout adapter from RFM95W to mikroBUS™
 
 NeoPixel
 
-<img src="Images/IMG_3728_20.jpg" alt="LED" title="LED" width="25%" />
+<img src="Images/IMG_3728_20.jpg" alt="LED" title="LED" width="25%">
 
 LED on all pins for mikroBUS™ testing
+
+![LED]
+<img src="Images/IMG_3728_20.jpg" alt="LED" title="LED" width="25%">
 
 
 #### Planned:
