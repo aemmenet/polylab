@@ -14,7 +14,7 @@
 
 ### MCU:
 
-<img src="Images/Microchip.jpg" alt="polylab" width="25%">
+<img src="Images/Microchip.jpg" alt="polylab" width="13%">
 
 Microchip AVR64DD32 (QFP32 socket)
 * https://www.youtube.com/watch?v=M-myqg-2c5s
@@ -28,7 +28,7 @@ Programming Optiboot Bootloader with SerialUPDI programmer via UPDI Target Heade
 
 ### mikroBUS™:
 
-<img src="Images/IMG_3666_20.jpg" alt="polylab" width="50%">
+<img src="Images/IMG_3666_20.jpg" alt="polylab" width="25%">
 
 * https://www.mikroe.com/mikrobus
 * https://www.mikroe.com/click
