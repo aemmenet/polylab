@@ -90,11 +90,12 @@ NeoPixel
 LED on all pins for mikroBUS™ testing
 
 
-### Planned:
+#### Planned:
 
 * (https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery)
 
 #### Side by Side, Stacking or on Bradboard:
+
 <img src="Images/IMG_3726_20.jpg" alt="side by side" width="25%"><img src="Images/IMG_3729_20.jpg" alt="stacking" width="25%"><img src="Images/IMG_3727_20.jpg" alt="breadboard" width="25%">
 
 
