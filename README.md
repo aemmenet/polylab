@@ -79,15 +79,15 @@ This board is still a work in progress. There is a list of about 25 changes or i
 
 ### DIY mikroBUS™ compatibles Modules:
 
-<img src="Images/IMG_3731_20.jpg" alt="RFM95W" width="50%">
+<img src="Images/IMG_3731_20.jpg" alt="RFM95W" width="25%">
 
 Breakout adapter from RFM95W to mikroBUS™
 
-<img src="Images/IMG_3730_20.jpg" alt="NeoPixel" width="50%">
+<img src="Images/IMG_3730_20.jpg" alt="NeoPixel" width="25%">
 
 NeoPixel
 
-<img src="Images/IMG_3728_20.jpg" alt="LED" width="50%">
+<img src="Images/IMG_3728_20.jpg" alt="LED" width="25%">
 
 LED on all pins for mikroBUS™ testing
 
