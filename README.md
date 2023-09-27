@@ -89,7 +89,7 @@ This board is still a work in progress. There is a list of about 25 changes or i
 * (https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery)
 
 
-#### "polylab"-PCB's:
+#### "polylab"-PCB:
 
 <img src="Images/IMG_3726_20.jpg" alt="side by side" width="25%"> side by side on doubler Board
 
