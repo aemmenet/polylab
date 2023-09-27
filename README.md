@@ -91,10 +91,6 @@ NeoPixel
 
 LED on all pins for mikroBUS™ testing
 
-![LED]
-<img src="Images/IMG_3728_20.jpg" alt="LED" title="LED" width="25%">
-
-
 #### Planned:
 
 * (https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery)
