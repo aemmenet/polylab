@@ -1,6 +1,6 @@
 ## "polylab" Microchip AVR Dx32 Development-Board by Aemme.Net
 
-### Physical:
+### Hardware:
 
 <img src="Images/IMG_3665_20.jpg" alt="polylab" width="50%">
 
@@ -93,5 +93,10 @@ LED on all pins for mikroBUS™ testing
 ### Planned:
 
 * (https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery)
+
+
+<img src="Images/IMG_3728_26.jpg" alt="side by side" width="50%">
+<img src="Images/IMG_3729_20.jpg" alt="stacking" width="50%">
+<img src="Images/IMG_3727_20.jpg" alt="breadboard" width="50%">
 
 
