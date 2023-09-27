@@ -21,6 +21,8 @@ Microchip AVR64DD32 (QFP32 socket)
 * https://github.com/SpenceKonde/DxCore
 * [SerialUPDI programmer](https://www.tindie.com/products/mcudude/serialupdi-programmer)
 
+<img src="Images/IMG_3732_20.jpg" alt="polylab" width="25%">
+
 Programming Optiboot Bootloader with SerialUPDI programmer via UPDI Target Header on Development Board.
  
 
