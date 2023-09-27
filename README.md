@@ -7,9 +7,7 @@
 - 2 layer board made with KiCad 7 EDA. Learned with
 * https://www.udemy.com/course/kicad-like-a-pro-3e/
 - proprietary form factor: 1/2 credit card size ( 53.98 x 42.8 mm)  
-- 2 x 19 pin pinheader with proprietary "polylab" pinout  
-- fits in 3D printed case programmed with OpenSCAD modeller  
-
+- 2 x 19 pin pinheader with proprietary "polylab" pinout
 
 ### MCU:
 
@@ -81,4 +79,5 @@ This board is still a work in progress. There is a list of about 25 changes or i
 
 * (https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery)
 
+ - fits in 3D printed case programmed with OpenSCAD modeller  
 
