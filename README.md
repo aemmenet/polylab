@@ -75,6 +75,21 @@ Still needs to be synced with RTC or GPS ...
 
 This board is still a work in progress. There is a list of about 25 changes or improvements for the next version.
 
+### DIY mikroBUS compatibles Modules:
+
+<img src="Images/IMG_3731_20.jpg" alt="RFM95W" width="50%">
+
+...
+
+<img src="Images/IMG_3730_20.jpg" alt="NeoPixel" width="50%">
+
+...
+
+<img src="Images/IMG_3731_20.jpg" alt="LED" width="50%">
+
+...
+
+
 ### Planned:
 
 * (https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery)
