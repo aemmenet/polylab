@@ -96,7 +96,7 @@ LED on all pins for mikroBUS™ testing
 * (https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery)
 
 
-![Text](https://github.com/aemmenet/polylab/Images/IMG_3728_20.jpg)
+![Text](https://github.com/aemmenet/polylab/blob/master/Images/IMG_3728_20.jpg)
 
 #### Side by Side on Doubler Board, Stacking or on Breadboard:
 
