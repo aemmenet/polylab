@@ -4,7 +4,8 @@
 
 <img src="Images/IMG_3665_20.jpg" alt="polylab" width="50%">
 
-- 2 layer board made with KiCad 7 EDA  
+- 2 layer board made with KiCad 7 EDA
+* https://www.udemy.com/course/kicad-like-a-pro-3e/
 - proprietary form factor: 1/2 credit card size ( 53.98 x 42.8 mm)  
 - 2 x 19 pin pinheader with proprietary "polylab" pinout  
 - "polylab" shields stackable or side by side with doubler board  
