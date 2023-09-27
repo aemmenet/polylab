@@ -8,7 +8,6 @@
 * https://www.udemy.com/course/kicad-like-a-pro-3e/
 - proprietary form factor: 1/2 credit card size ( 53.98 x 42.8 mm)  
 - 2 x 19 pin pinheader with proprietary "polylab" pinout  
-- "polylab" shields stackable or side by side with doubler board  
 - fits in 3D printed case programmed with OpenSCAD modeller  
 
 
@@ -90,8 +89,10 @@ This board is still a work in progress. There is a list of about 25 changes or i
 * (https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery)
 
 
-#### Side by Side on Doubler Board, Stacking or on Breadboard:
+#### "polylab"-Shields:
 
-<img src="Images/IMG_3726_20.jpg" alt="side by side" width="25%">  <img src="Images/IMG_3729_20.jpg" alt="stacking" width="25%">  <img src="Images/IMG_3727_20.jpg" alt="breadboard" width="25%">
+<img src="Images/IMG_3726_20.jpg" alt="side by side" width="25%"> side by side on doubler Board
+<img src="Images/IMG_3729_20.jpg" alt="stacking" width="25%"> stacking
+<img src="Images/IMG_3727_20.jpg" alt="breadboard" width="25%"> on bradboard
 
 
