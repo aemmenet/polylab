@@ -12,7 +12,9 @@
 
 ### MCU:
 
+<p align="center">
 <img src="Images/Microchip.jpg" alt="polylab" width="13%">
+</p>
 
 Microchip AVR64DD32 (QFP32 socket)
 * https://www.youtube.com/watch?v=M-myqg-2c5s
