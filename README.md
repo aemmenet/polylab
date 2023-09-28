@@ -25,9 +25,9 @@ Microchip AVR64DD32 (QFP32 socket)
 <img src="Images/IMG_3732_20.jpg" alt="polylab" width="50%">
 </p>
 
-<p align="center">
+<center>
 Programming Optiboot Bootloader with SerialUPDI programmer via UPDI Target Header on Development Board.
-</p>
+</center>
 
 ### mikroBUS™:
 
