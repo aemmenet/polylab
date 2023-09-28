@@ -59,11 +59,11 @@ This board is still a work in progress. There is a list of about 25 changes or i
 
 ### DIY mikroBUS™ Port compatibles Modules:
 
-<img src="Images/IMG_3731_20.jpg" alt="RFM95W" width="25%"> Breakout adapter from RFM95W to mikroBUS™
+<img src="Images/IMG_3731_20.jpg" alt="RFM95W" width="25%"> Breakout adapter from RFM95W to mikroBUS™ port
 
 <img src="Images/IMG_3730_20.jpg" alt="NeoPixel" width="25%"> 8 daisy-chained NeoPixel
 
-<img src="Images/IMG_3728_20.jpg" alt="LED" title="LED" width="25%"> LED's on all pins for mikroBUS™ testing
+<img src="Images/IMG_3728_20.jpg" alt="LED" title="LED" width="25%"> LED's on all pins for mikroBUS™ port testing
 
 ### "polylab"-Prototyping Ecosystem:
 
