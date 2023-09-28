@@ -17,7 +17,9 @@ Microchip AVR64DD32 (QFP32 socket)
 * https://github.com/SpenceKonde/DxCore Current release 1.5.10 (October 28, 2023)
 * [SerialUPDI programmer](https://www.tindie.com/products/mcudude/serialupdi-programmer)
 
+<p align="center">
 <img src="Images/IMG_3732_20.jpg" alt="polylab" width="50%">
+</p>
 
 Programming Optiboot Bootloader with SerialUPDI programmer via UPDI Target Header on Development Board.
  
