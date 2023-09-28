@@ -46,7 +46,7 @@ based on Arduino IDE Examples für Custom Libraries
 ### Peripheral Connectors
 - 2 x 19 pin pinheader with proprietary "polylab" pinout  
 - mikroBUS™ compatible port 
-- 2 x Grove connector (i2C & UART)  
+- 2 x Grove connector (I2C & UART)  
 - 1 x Qwiic® connector
    
 ### Power Supply Connectors
