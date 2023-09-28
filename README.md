@@ -36,7 +36,7 @@ based on Arduino IDE Examples für Custom Libraries
 
 <img src="Images/IMG_3669_20.jpg" alt="polylab" width="50%"> LMIC-node connected to TTN ...
 
-<img src="Images/IMG_3674_20.jpg" alt="polylab" width="50%"> Graphics test with SPI TFT on mikroBUS™ ...
+<img src="Images/IMG_3674_20.jpg" alt="polylab" width="50%"> Graphics test with SPI TFT on mikroBUS™ port ...
  
 <img src="Images/IMG_3685_20.jpg" alt="polylab" width="50%"> GPS-Module and LiPo-Cell added & tested (--> TTN Mapper) ...
 
@@ -45,7 +45,7 @@ based on Arduino IDE Examples für Custom Libraries
 
 ### Peripheral Connectors
 - 2 x 19 pin pinheader with proprietary "polylab" pinout  
-- mikroBUS™ compatible socket header  
+- mikroBUS™ compatible port 
 - 2 x Grove connector (i2C & UART)  
 - 1 x Qwiic® connector
    
@@ -57,7 +57,7 @@ based on Arduino IDE Examples für Custom Libraries
 
 This board is still a work in progress. There is a list of about 25 changes or improvements for the next version.
 
-### DIY mikroBUS™ compatibles Modules:
+### DIY mikroBUS™ Port compatibles Modules:
 
 <img src="Images/IMG_3731_20.jpg" alt="RFM95W" width="25%"> Breakout adapter from RFM95W to mikroBUS™
 
