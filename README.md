@@ -65,13 +65,13 @@ This board is still a work in progress. There is a list of about 25 changes or i
 
 <img src="Images/IMG_3728_20.jpg" alt="LED" title="LED" width="25%"> LED's on all pins for mikroBUS™ testing
 
-### "polylab"-PCB:
+### "polylab"-Prototyping Ecosystem:
 
-<img src="Images/IMG_3726_20.jpg" alt="side by side" width="25%"> on doubler board
+<img src="Images/IMG_3726_20.jpg" alt="side by side" width="25%"> PCB on doubler board
 
-<img src="Images/IMG_3727_20.jpg" alt="breadboard" width="25%"> on breadboard
+<img src="Images/IMG_3727_20.jpg" alt="breadboard" width="25%"> PCB on breadboard
 
-<img src="Images/IMG_3729_20.jpg" alt="stacking" width="25%"> stacked
+<img src="Images/IMG_3729_20.jpg" alt="stacking" width="25%"> PCB stacked
 
 ### "polylab"-Custom Boards:
 
