@@ -15,7 +15,7 @@
 
 Microchip AVR64DD32 (QFP32 socket)
 * https://www.youtube.com/watch?v=M-myqg-2c5s
-* https://github.com/SpenceKonde/DxCore
+* https://github.com/SpenceKonde/DxCore Current release 1.5.10 (October 28, 2023)
 * [SerialUPDI programmer](https://www.tindie.com/products/mcudude/serialupdi-programmer)
 
 <img src="Images/IMG_3732_20.jpg" alt="polylab" width="50%">
