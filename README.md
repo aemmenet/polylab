@@ -2,7 +2,9 @@
 
 ### Hardware:
 
+<p align="center">
 <img src="Images/IMG_3665_20.jpg" alt="polylab" width="50%">
+</p>
 
 - 2 layer board made with KiCad 7 EDA. Learned with https://www.udemy.com/course/kicad-like-a-pro-3e/
 - proprietary form factor: 1/2 credit card size ( 53.98 x 42.8 mm)  
@@ -19,10 +21,9 @@ Microchip AVR64DD32 (QFP32 socket)
 
 <p align="center">
 <img src="Images/IMG_3732_20.jpg" alt="polylab" width="50%">
-</p>
 
 Programming Optiboot Bootloader with SerialUPDI programmer via UPDI Target Header on Development Board.
- 
+</p>
 
 ### mikroBUS™:
 
