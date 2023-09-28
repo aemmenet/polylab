@@ -2,9 +2,7 @@
 
 ### Hardware:
 
-<p align="center">
 <img src="Images/IMG_3665_20.jpg" alt="polylab" width="50%">
-</p>
 
 - 2 layer board made with KiCad 7 EDA. Learned with https://www.udemy.com/course/kicad-like-a-pro-3e/
 - proprietary form factor: 1/2 credit card size ( 53.98 x 42.8 mm)  
@@ -12,28 +10,20 @@
 
 ### MCU:
 
-<p align="center">
 <img src="Images/Microchip.jpg" alt="polylab" width="13%">
-</p>
 
 Microchip AVR64DD32 (QFP32 socket)
 * https://www.youtube.com/watch?v=M-myqg-2c5s
 * https://github.com/SpenceKonde/DxCore Current release 1.5.10 (October 28, 2023)
 * [SerialUPDI programmer](https://www.tindie.com/products/mcudude/serialupdi-programmer)
 
-<p align="center">
 <img src="Images/IMG_3732_20.jpg" alt="polylab" width="50%">
-</p>
 
-<center>
 Programming Optiboot Bootloader with SerialUPDI programmer via UPDI Target Header on Development Board.
-</center>
 
 ### mikroBUS™:
 
-<p align="center">
 <img src="Images/IMG_3666_20.jpg" alt="polylab" width="50%">
-</p>
 
 * https://www.mikroe.com/mikrobus
 * https://www.mikroe.com/click
