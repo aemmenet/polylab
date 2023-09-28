@@ -75,7 +75,7 @@ This board is still a work in progress. There is a list of about 25 changes or i
 
 ### "polylab"-Custom Boards:
 
-<img src="Images/IMG_3733_20.jpg" alt="side by side" width="50%"> made with regular protoboards
+<img src="Images/IMG_3733_20.jpg" alt="side by side" width="25%"> made with regular protoboards
 
 #### Planned:
 
