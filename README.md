@@ -34,9 +34,10 @@ Programming Optiboot Bootloader with SerialUPDI programmer via UPDI Target Heade
 ### First Experimental Tests:  
 based on Arduino IDE Examples für Custom Libraries
 
-<a id="node"></a>
+<a id="Node"></a>
 <img src="Images/IMG_3669_20.jpg" alt="polylab" width="50%"> MCCI LoRaWAN LMIC-node connected to TTN ...
 
+<a id="TFT"></a>
 <img src="Images/IMG_3674_20.jpg" alt="polylab" width="50%"> Graphics test with SPI TFT on mikroBUS™ port ...
  
 <img src="Images/IMG_3685_20.jpg" alt="polylab" width="50%"> GPS-Module and LiPo-Cell added & tested (--> TTN Mapper) ...
