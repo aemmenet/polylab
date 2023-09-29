@@ -1,4 +1,4 @@
-## "polylab" Microchip AVR Dx32-Series Development-Board
+## "polylab" Microchip AVR® Dx32-Series Development-Board
 
 ### Hardware:
 
