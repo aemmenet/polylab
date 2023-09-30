@@ -1,4 +1,4 @@
-## "polylab" Microchip AVR® Dx32-Series Development-Board
+## "polylab" DiY Microchip AVR® Dx32-Series Development-Board
 
 ### Hardware:
 
@@ -54,7 +54,7 @@ based on Arduino IDE Examples for Custom Libraries
 - JST PH 2.0  for Single LiPo cell (MCP73831 charge controller)  
 - 6 pin UPDI-target-header
 
-This board is still a work in progress. There is a list of about 25 changes or improvements for the next version.
+This board is still a work in progress! There is a list of about 25 changes or improvements for the next version.
 
 ### DIY mikroBUS™ Port compatibles Modules:
 
