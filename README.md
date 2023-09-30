@@ -27,8 +27,7 @@ Programming Optiboot Bootloader with SerialUPDI programmer via UPDI Target Heade
 
 * https://www.mikroe.com/mikrobus
 * https://www.mikroe.com/click
-* [Sensirion & mikroBUS™](https://developer.sensirion.com/partner-spotlight/partner-spotlight-mikroelektronika)
-* [ETHzürich & mikroBUS™](https://pbl.ee.ethz.ch/education/embedded-systems.html)
+* [Sensirion & mikroBUS™](https://developer.sensirion.com/partner-spotlight/partner-spotlight-mikroelektronika) [ETHzürich & mikroBUS™](https://pbl.ee.ethz.ch/education/embedded-systems.html)
 
 
 ### First Experimental Tests:  
