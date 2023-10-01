@@ -14,7 +14,7 @@
 
 <img src="Images/Microchip.jpg" alt="polylab" width="13%">
 
-Microchip AVR64DD32 (QFP32 socket), replacement or successor for the old ATmega328P
+Microchip AVR64DD32 (QFP32 socket). Replacement or successor for the old ATmega328P?
 * https://www.youtube.com/watch?v=M-myqg-2c5s
 * https://www.arduino.cc/en/software IDE Version 2.2.1 ok for my tests (November 1, 2023)
 * https://github.com/SpenceKonde/DxCore Current release 1.5.10 (October 28, 2023)
