@@ -15,7 +15,7 @@
 <img src="Images/Microchip.jpg" alt="polylab" width="13%">
 
 Microchip AVR64DD32 (QFP32 socket). Replacement or successor for the old ATmega328P?
-* [8-bit MCUs: Still Thriving After 50 Years](https://www.microchip.com/en-us/about/media-center/blog/2023/the-8-bit-microcontroller-is-still-thriving?utm_campaign=8bit-mcus-embedded-design&utm_source=twitter.com&utm_medium=Post&utm_content=SharePoint45090.75) [,,,](https://page.microchip.com/Low-Power-Sensing-Applications.html?utm_campaign=low-power-sensor-applications&utm_source=twitter.com&utm_medium=Post&utm_content=SharePoint45109.4167
+* [8-bit MCUs: Still Thriving After 50 Years](https://www.microchip.com/en-us/about/media-center/blog/2023/the-8-bit-microcontroller-is-still-thriving?utm_campaign=8bit-mcus-embedded-design&utm_source=twitter.com&utm_medium=Post&utm_content=SharePoint45090.75) [,,,](https://page.microchip.com/Low-Power-Sensing-Applications.html?utm_campaign=low-power-sensor-applications&utm_source=twitter.com&utm_medium=Post&utm_content=SharePoint45109.4167)
 * https://www.youtube.com/watch?v=M-myqg-2c5s)
 * https://www.arduino.cc/en/software IDE Version 2.2.1 ok for my tests (November 1, 2023)
 * https://github.com/SpenceKonde/DxCore Current release 1.5.10 (October 28, 2023)
