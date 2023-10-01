@@ -22,7 +22,7 @@ Microchip AVR64DD32 (QFP32 socket), replacement or successor for the old ATmega3
 
 <img src="Images/IMG_3732_20.jpg" alt="polylab" width="50%">
 
-Programming Optiboot Bootloader with SerialUPDI programmer via UPDI Target Header on Development Board.
+Programming Optiboot Bootloader via UPDI Target Header on Development Board.
 
 ### mikroBUS™:
 
