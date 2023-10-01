@@ -6,7 +6,7 @@
 
 - 2 layer PCB made with KiCad 7 EDA.
 - KiCAD learned with https://www.udemy.com/course/kicad-like-a-pro-3e/
-- Printed Circuit Board manufactured by: https://aisler.net/
+- PCB manufactured by: https://aisler.net/
 - proprietary form factor: 1/2 credit card size ( 53.98 x 42.8 mm)  
 - 2 x 19 pin pinheader with proprietary "polylab" pinout
 
