@@ -5,6 +5,7 @@
 <img src="Images/IMG_3741_20.jpg" alt="polylab" width="50%">
 
 - 2 layer board made with KiCad 7 EDA. Learned with https://www.udemy.com/course/kicad-like-a-pro-3e/
+- Printed Circuit Board manufactured by: https://aisler.net/
 - proprietary form factor: 1/2 credit card size ( 53.98 x 42.8 mm)  
 - 2 x 19 pin pinheader with proprietary "polylab" pinout
 
