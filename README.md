@@ -82,6 +82,7 @@ This board is still a work in progress! There is a list of about 25 changes or i
 
 #### Planned:
 
+Low Power / Sleep Mode
 Energy Harvesting
 * (https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery)
 
