@@ -38,7 +38,7 @@ based on Arduino IDE Examples for Custom Libraries
 
 <img src="Images/IMG_3669_20.jpg" alt="polylab" width="25%"> MCCI LoRaWAN LMIC-node connected to TTN ...
 
-<img src="Images/IMG_3674_20.jpg" alt="polylab" width="25%"> Graphics test with SPI TFT on mikroBUS™ port ...
+<img src="Images/IMG_3674_20.jpg" alt="polylab" width="25%"> Graphics test with SPI TFT on mikroBUS™ socket ...
  
 <img src="Images/IMG_3685_20.jpg" alt="polylab" width="25%"> GPS-Module and LiPo-Cell added & tested (--> TTN Mapper) ...
 
@@ -47,7 +47,7 @@ based on Arduino IDE Examples for Custom Libraries
 
 ### Peripheral Connectors
 - 2 x 19 pin pinheader with proprietary "polylab" pinout  
-- mikroBUS™ compatible port 
+- mikroBUS™ socket 
 - 2 x Grove connector (I2C & UART)  
 - 1 x Qwiic® connector
 - MicroUSB (CH340N USB to UART converter)
@@ -60,13 +60,13 @@ based on Arduino IDE Examples for Custom Libraries
 
 This board is still a work in progress! There is a list of about 25 changes or improvements for the next version.
 
-### DIY mikroBUS™ Port compatibles Modules:
+### DIY mikroBUS™ Socket compatibles Modules:
 
-<img src="Images/IMG_3731_20.jpg" alt="RFM95W" width="25%"> Breakout adapter from RFM95W module to mikroBUS™ port
+<img src="Images/IMG_3731_20.jpg" alt="RFM95W" width="25%"> Breakout adapter from RFM95W module to mikroBUS™ socket
 
 <img src="Images/IMG_3730_20.jpg" alt="NeoPixel" width="25%"> 8 daisy-chained NeoPixel
 
-<img src="Images/IMG_3728_20.jpg" alt="LED" title="LED" width="25%"> LED's on all pins for mikroBUS™ port testing
+<img src="Images/IMG_3728_20.jpg" alt="LED" title="LED" width="25%"> LED's on all pins for mikroBUS™ socket testing
 
 ### "polylab"-Prototyping Ecosystem:
 
