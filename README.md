@@ -37,7 +37,7 @@ Flashing Optiboot Bootloader via UPDI Target Header.
 based on Arduino IDE Examples for Custom Libraries
 
 <img src="Images/IMG_3669_20.jpg" alt="polylab" width="25%"> MCCI LoRaWAN LMIC-node connected to TTN ...  
-- __Needs DXCore Version 1.5.8, no JoinAccept with Version 1.5.10! (test sketch includes <lmic.h> & <hal/hal.h>)__
+__Needs DXCore Version 1.5.8, no JoinAccept with Version 1.5.10! (test sketch includes <lmic.h> & <hal/hal.h>)__
 
 <img src="Images/IMG_3674_20.jpg" alt="polylab" width="25%"> Graphics test with SPI TFT on mikroBUS™ socket ...
  
