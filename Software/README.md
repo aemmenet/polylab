@@ -2,7 +2,7 @@ Is continually being updated ...
 
 ### Programming the Microchip AVR Dx Series with Arduino
 
-October 8, 2023: MCCI LoRaWAN LMIC-node test sketch needs DxCore Version 1.5.8, no JoinAccept with Version 1.5.10!
+October 8, 2023: MCCI LoRaWAN LMIC-node test sketch needs Arduino 1,8.19 withDxCore Version 1.5.8.
 
 - Arduino IDE Tools Config:
 
