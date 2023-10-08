@@ -4,6 +4,6 @@ Is continually being updated ...
 
 MCCI LoRaWAN LMIC-node test sketch needs DxCore Version 1.5.8, no JoinAccept with Version 1.5.10!
 
-Arduino IDE Tools Config:
+- Arduino IDE Tools Config:
 
-<img src="../Images/Arduino_IDE_Tools_Config.jpg" alt="polylab" width="50%">  
+- <img src="../Images/Arduino_IDE_Tools_Config.jpg" alt="polylab" width="50%">  
