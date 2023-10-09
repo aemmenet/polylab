@@ -17,6 +17,7 @@
 Microchip AVR64DD32 (QFP32 socket). Replacement or successor for the old ATmega328P?
 * [8-bit MCUs: Still Thriving After 50 Years](https://www.microchip.com/en-us/about/media-center/blog/2023/the-8-bit-microcontroller-is-still-thriving?utm_campaign=8bit-mcus-embedded-design&utm_source=twitter.com&utm_medium=Post&utm_content=SharePoint45090.75)
 * https://www.youtube.com/watch?v=M-myqg-2c5s) AVR® DD Product Family Overview
+* [AVR Peripheral Deep Dive](https://mu.microchip.com/avr-peripheral-deep-dive-pub?utm_campaign=mcu8-avr-microchip-university&utm_source=twitter.com&utm_medium=Post&utm_content=SharePoint45169.5833)
 * https://www.arduino.cc/en/software Arduino IDE
 * https://github.com/SpenceKonde/DxCore Arduino support for the AVR DA, DB-series and DD-series
 * [SerialUPDI programmer](https://www.tindie.com/products/mcudude/serialupdi-programmer) Flashing Optiboot bootloader ok with the above versions
