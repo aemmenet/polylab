@@ -38,10 +38,10 @@ Flashing Optiboot Bootloader via UPDI Target Header.
 based on Arduino IDE Examples for Custom Libraries
 
 <img src="Images/IMG_3669_20.jpg" alt="polylab" width="25%"> MCCI LoRaWAN LMIC-node connected to TTN ...  
-__Needs DXCore Version 1.5.8, no JoinAccept with Version 1.5.10!__
+Needs DXCore Version 1.5.8, no JoinAccept with Version 1.5.10!
 
 <img src="Images/IMG_3674_20.jpg" alt="polylab" width="25%"> <img src="Images/IMG_3768.jpg" alt="polylab" width="25%"> Graphics test with SPI TFT on mikroBUS™ socket ...  
-Adafruit example sketch *graphicstest.ino* with ST7735 and ST7789 library.
+Adafruit example sketch *graphicstest.ino* with ST7735 and ST7789 library. Initialize ST7789 240x240 with tft.init(240, 240, __SPI_MODE2__)
  
 <img src="Images/IMG_3685_20.jpg" alt="polylab" width="25%"> GPS-Module and LiPo-Cell added & tested (--> TTN Mapper) ...
 
