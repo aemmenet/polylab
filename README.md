@@ -41,7 +41,7 @@ based on Arduino IDE Examples for Custom Libraries
 __Needs DXCore Version 1.5.8, no JoinAccept with Version 1.5.10! (test sketch includes <lmic.h> & <hal/hal.h>)__
 
 <img src="Images/IMG_3674_20.jpg" alt="polylab" width="25%"> <img src="Images/IMG_3768.jpg" alt="polylab" width="25%"> Graphics test with SPI TFT on mikroBUS™ socket ...  
-Adafruit example sketch *graphicstest.ino* with ST7735 ans ST7789 library.
+Adafruit example sketch *graphicstest.ino* with ST7735 and ST7789 library.
  
 <img src="Images/IMG_3685_20.jpg" alt="polylab" width="25%"> GPS-Module and LiPo-Cell added & tested (--> TTN Mapper) ...
 
