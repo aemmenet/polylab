@@ -12,11 +12,11 @@ Solder Paste applied
 <img src="../Images/IMG_3610_20.jpg" alt="Solder Paste" width="25%">  
 SMD components placed  
 <img src="../Images/IMG_3611_20.jpg" alt="Placed" width="25%">  
-HotPlate  
+on the HotPlate  
 <img src="../Images/IMG_3621_20.jpg" alt="HotPlate" width="25%">  
-Soldered ...  
+SMD components soldered ...  
 <img src="../Images/IMG_3614_20.jpg" alt="Soldered" width="25%">  
-THT Components ready ...  
+THT components ready ...  
 <img src="../Images/IMG_3619_20.jpg" alt="THT" width="25%">  
 SMD Rework Station  
 <img src="../Images/SMD_Rework_Station.jpg" alt="HotAir" width="25%">  
