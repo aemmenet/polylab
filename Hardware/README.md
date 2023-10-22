@@ -26,4 +26,4 @@ THT components ready ...
 ELV SMD Rework-Station  
 <img src="../Images/SMD_Rework_Station.jpg" alt="HotAir" width="25%">  
 ELV SMD Rework-Station  
-<img src="../Images/PinzetteLötkolben.jpg" alt="HotAir" width="25%">  
+<img src="../Images/PinzetteLoetkolben.jpg" alt="Pinzette" width="25%">  
