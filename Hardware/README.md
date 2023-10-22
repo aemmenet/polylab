@@ -3,9 +3,9 @@ Is continually being updated ...
 First release prototypes with some handwired fixes and improvements. Ready for next release ...  
 <img src="../Images/IMG_3747_20.jpg" alt="Frontside" width="25%">  <img src="../Images/IMG_3750_20.jpg" alt="Backside" width="25%">  
 
-### DIY PCB Assembly
+### DIY PCB-Assembly
 
-AISLER Beauitiful Boards  
+AISLER Beauitiful Boards. Manufactured and delivered from Germany.  
 <img src="../Images/IMG_3774_20.jpg" alt="AISLER" width="25%">  
 UPDI-Programmer  
 <img src="../Images/IMG_3770_20.jpg" alt="UPDI" width="25%">  
