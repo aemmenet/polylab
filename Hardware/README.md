@@ -18,7 +18,7 @@ THT components ready ...
 <img src="../Images/IMG_3619_20.jpg" alt="THT" width="25%">  
 
 #### Assembly Tools  
-UPDI-Programmer  
+UPDI-Programmer to flash and test MCUs bevore assembly  
 <img src="../Images/IMG_3770_20.jpg" alt="UPDI" width="25%">  
 TurnTable for easier component placement   
 <img src="../Images/IMG_3777_20.jpg" alt="TurnTable" width="25%">  
