@@ -23,5 +23,5 @@ SMD components soldered ...
 <img src="../Images/IMG_3614_20.jpg" alt="Soldered" width="25%">  
 THT components ready ...  
 <img src="../Images/IMG_3619_20.jpg" alt="THT" width="25%">  
-SMD Rework Station  
+ELV SMD Rework-Station  
 <img src="../Images/SMD_Rework_Station.jpg" alt="HotAir" width="25%">  
