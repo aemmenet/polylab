@@ -2,9 +2,12 @@ Is continually being updated ...
 
 First release prototypes with some handwired fixes and improvements. Ready for next release ...  
 <img src="../Images/IMG_3747_20.jpg" alt="Frontside" width="25%">  <img src="../Images/IMG_3750_20.jpg" alt="Backside" width="25%">  
+
+### DIY PCB Assembly
+
 AISLER Beauitiful Boards  
 <img src="../Images/IMG_3774_20.jpg" alt="AISLER" width="25%">  
-UPDI Programmer  
+UPDI-Programmer  
 <img src="../Images/IMG_3770_20.jpg" alt="UPDI" width="25%">  
 Ready for pick and place ...  
 <img src="../Images/IMG_3608_20.jpg" alt="Pick & Place" width="25%">  
@@ -14,7 +17,7 @@ TurnTable for easier component placement
 <img src="../Images/IMG_3777_20.jpg" alt="TurnTable" width="25%">  
 SMD components placed  
 <img src="../Images/IMG_3611_20.jpg" alt="Placed" width="25%">  
-on the HotPlate  
+On the HotPlate  
 <img src="../Images/IMG_3621_20.jpg" alt="HotPlate" width="25%">  
 SMD components soldered ...  
 <img src="../Images/IMG_3614_20.jpg" alt="Soldered" width="25%">  
