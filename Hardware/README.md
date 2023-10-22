@@ -7,8 +7,8 @@ AISLER Beauitiful Boards
 UPDI Programmer  
 <img src="../Images/IMG_3770_20.jpg" alt="Arduino" width="25%">  
 Ready for pick and place ...  
-<img src="../Images/IMG_3778_20.jpg" alt="Arduino" width="25%">  
+<img src="../Images/IMG_3608_20.jpg" alt="Arduino" width="25%">  
 Solder Paste applied  
-<img src="../Images/IMG_3710_20.jpg" alt="Arduino" width="25%">  
+<img src="../Images/IMG_3610_20.jpg" alt="Arduino" width="25%">  
 SMD components placed  
-<img src="../Images/IMG_371_20.jpg" alt="Arduino" width="25%">  
+<img src="../Images/IMG_3611_20.jpg" alt="Arduino" width="25%">  
