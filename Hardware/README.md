@@ -25,5 +25,5 @@ HotPlate
 <img src="../Images/IMG_3621_20.jpg" alt="HotPlate" width="25%">  
 ELV SMD Rework-Station  
 <img src="../Images/SMD_Rework_Station.jpg" alt="HotAir" width="25%">  
-Pinzette Lötkolben  
+Tweezers Mini Soldering Iron Station  
 <img src="../Images/PinzetteLoetkolben.JPG" alt="Pinzette" width="25%">  
