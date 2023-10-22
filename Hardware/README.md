@@ -12,3 +12,11 @@ Solder Paste applied
 <img src="../Images/IMG_3610_20.jpg" alt="Arduino" width="25%">  
 SMD components placed  
 <img src="../Images/IMG_3611_20.jpg" alt="Arduino" width="25%">  
+HotPlate  
+<img src="../Images/IMG_3621_20.jpg" alt="Arduino" width="25%">  
+Soldered ...  
+<img src="../Images/IMG_3614_20.jpg" alt="Arduino" width="25%">  
+THT Components ready ...  
+<img src="../Images/IMG_3619_20.jpg" alt="Arduino" width="25%">  
+SMD Rework Station  
+<img src="../Images/SMD_Rework_Station.jpg" alt="Arduino" width="25%">  
