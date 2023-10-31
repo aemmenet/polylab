@@ -73,6 +73,8 @@ This board is still a work in progress! There is a list of about 25 changes or i
 
 <img src="Images/IMG_3728_20.jpg" alt="LED" title="LED" width="25%"> LED's on all pins for mikroBUS™ socket testing
 
+<img src="Images/IMG_3798_20.jpg" alt="Stepper Motor" width="25%"> PoLoLu Stepper Motor Driver on mikroBUS™ Modul ...
+
 ### "polylab"-Prototyping Ecosystem:
 
 <img src="Images/IMG_3726_20.jpg" alt="side by side" width="25%"> PCB on doubler board
