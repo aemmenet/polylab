@@ -66,7 +66,7 @@ Adafruit example sketch *graphicstest.ino* with ST7735 and ST7789 library. Initi
 
 This board is still a work in progress! There is a list of about 25 changes or improvements for the next version.
 
-### DIY mikroBUS™ Socket compatibles Modules:
+### DIY mikroBUS™ Socket compatibles Hardware-Modules:
 
 <img src="Images/IMG_3731_20.jpg" alt="RFM95W" width="25%"> Breakout adapter from RFM95W module to mikroBUS™ socket
 
