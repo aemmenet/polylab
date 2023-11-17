@@ -49,6 +49,7 @@ Adafruit example sketch *graphicstest.ino* with ST7735 and ST7789 library. Initi
 
 <img src="Images/IMG_3792_20.jpg" alt="Stepper Motor" width="25%"> PoLoLu Stepper Motor Driver on mikroBUS™ Modul ...
 
+<img src="Images/IMG_3830_20.JPG" alt="DHT20" width="25%"> AM2302 DHT22 Temperature/Humidity Sensor ...
 
 ### Peripheral Connectors
 - 2 x 19 pin pinheader with proprietary "polylab" pinout  
