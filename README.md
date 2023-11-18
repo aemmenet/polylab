@@ -51,6 +51,8 @@ Adafruit example sketch *graphicstest.ino* with ST7735 and ST7789 library. Initi
 
 <img src="Images/IMG_3830_20.jpg" alt="DHT22" width="25%"> DHT22 Temperature/Humidity Sensor (incl. Payload Encoding / Decoding) ...
 
+<img src="Images/IMG_3832_20.jpg" alt="Servo" width="25%"> Servo Sweep (#include <Servo_DxCore.h>) ...
+
 ### Peripheral Connectors
 - 2 x 19 pin pinheader with proprietary "polylab" pinout  
 - mikroBUS™ socket 
