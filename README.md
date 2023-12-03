@@ -66,7 +66,7 @@ Adafruit example sketch *graphicstest.ino* with ST7735 and ST7789 library. Initi
 - JST PH 2.0  for Single LiPo cell (MCP73831 charge controller)  
 - 6 pin UPDI-target-header
 
-This board is still a work in progress! There is a list of about 25 changes or improvements for the next version.
+This board is still a WiP! There is a list with many changes, improvements and extensionss for the next version.
 
 ### DIY mikroBUS™ Socket compatibles Hardware-Modules:
 
