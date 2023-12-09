@@ -98,8 +98,8 @@ This board is still a WiP! There is a list with many changes, improvements and e
 - Energy Harvesting
 * (https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery)
 
-Customize 3D printed case programmed with OpenSCAD modeller
+Modelling a case with OpenSCAD
 * (https://openscad.org)
 
-<img src="Images/IMG_3846_20.jpg" alt="case" width="25%"> <img src="Images/IMG_3847_20.jpg" alt="case" width="25%">
+<img src="Images/IMG_3846_20.jpg" alt="case" width="25%"> <img src="Images/IMG_3847_20.jpg" alt="case" width="25%"> <img src="Images/IMG_3848_20.jpg" alt="case" width="25%">
 
