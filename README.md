@@ -101,5 +101,5 @@ This board is still a WiP! There is a list with many changes, improvements and e
 Customize 3D printed case programmed with OpenSCAD modeller
 * (https://openscad.org)
 
-<img src="Images/IMG_3324_20.jpg" alt="case" width="25%">
+<img src="Images/IMG_3846_20.jpg" alt="case" width="25%"> <img src="Images/IMG_3847_20.jpg" alt="case" width="25%">
 
