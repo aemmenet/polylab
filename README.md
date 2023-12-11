@@ -88,6 +88,8 @@ This board is still a WiP! There is a list with many changes, improvements and e
 
 <img src="Images/IMG_3729_20.jpg" alt="stacking" width="25%"> PCB stacked
 
+<img src="Images/IMG_3951_20.jpg" alt="Power" with="25%"> powered with DC (9V battery), USB or LiPo
+
 ### "polylab"-Custom Boards:
 
 <img src="Images/IMG_3733_20.jpg" alt="side by side" width="25%"> made with regular protoboards and pinheaders
