@@ -4,7 +4,7 @@
 
 <img src="Images/IMG_3741_20.jpg" alt="polylab" width="50%">
 
-- 2 layer PCB designed with KiCAD 7 EDA.
+- 2 layer PCB designed with KiCad 7 EDA.
 - KiCAD learned with https://www.udemy.com/course/kicad-like-a-pro-3e/
 - PCB manufactured by: https://aisler.net/
 - proprietary form factor: 1/2 credit card size ( 53.98 x 42.8 mm)  
