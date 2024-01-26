@@ -1,4 +1,4 @@
-## "polylab" DIY Microchip AVR® Dx32-Series Starter-Board
+## "polylab" DIY Microchip AVR® Dx32-Series Develoment-Board
 
 ### Hardware:
 
