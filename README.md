@@ -57,7 +57,8 @@ Adafruit example sketch *graphicstest.ino* with ST7735 and ST7789 library. Initi
 ### Peripheral Connectors
 - 2 x 19 pin pinheader with proprietary "polylab" pinout  
 - mikroBUS™ socket 
-- 2 x Grove connector (I2C & UART)  
+- 2 x Grove connector (I2C & UART)
+- 2 x upright 4-pin header with Grove digital/analog pinout
 - 1 x Qwiic® connector
 - MicroUSB (CH340N USB to UART converter)
    
