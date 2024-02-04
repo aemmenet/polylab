@@ -58,7 +58,7 @@ Adafruit example sketch *graphicstest.ino* with ST7735 and ST7789 library. Initi
 - 2 x 19 pin pinheader with proprietary "polylab" pinout  
 - mikroBUS™ socket 
 - 2 x Grove connector (I2C & UART)
-- 2 x upright 4-pin header with Grove Digital/Analog pinout
+- 2 x 4-pin header (male) with Grove Digital/Analog pinout
 - 1 x Qwiic® connector
 - MicroUSB (CH340N USB to UART converter)
    
@@ -66,7 +66,7 @@ Adafruit example sketch *graphicstest.ino* with ST7735 and ST7789 library. Initi
 - Barrel Jack  7-12V DC, 3.5*1.3mm ( to 5V with AMS1117-5.0)  
 - MicroUSB (5V to 3V3 with AP2112K-3.3)  
 - JST PH 2.0  for Single LiPo cell (MCP73831 charge controller)  
-- 6 pin UPDI-target-header
+- 6-pin UPDI-target-header (female)
 
 This board is still a WiP! There is a list with many changes, improvements and extensionss for the next version.
 
