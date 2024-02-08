@@ -55,8 +55,8 @@ Adafruit example sketch *graphicstest.ino* with ST7735 and ST7789 library. Initi
 
 <img src="Images/IMG_3911_20.jpg" alt="CO2_Click" width="25%"> <img src="Images/IMG_3907_10.jpg" alt="Sensirion" width="25%"> <img src="Images/IMG_3906_10.jpg" alt="SparkFun" width="25%"> 
 
-Test mikroBUS CO2 click board with Sensirion STC31-sensor on polylab mikroBUS socket. 
-Adafruit example sketch *graphicstest.ino* with ST7735 and ST7789 library. Initialize ST7789 240x240 with tft.init(240, 240, __SPI_MODE3__) https://tigoe.github.io/display-examples
+Test mikroBUS CO2 click board with Sensirion STC31-sensor on polylab mikroBUS socket.  
+Test-sketches with Sensirion-Arduino library and SparkFun Arduino Library for STC3x sensor. CO2 gas produced with baking soda and water.
 
 
 ### Peripheral Connectors
