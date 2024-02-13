@@ -54,7 +54,7 @@ Adafruit example sketch *graphicstest.ino* with ST7735 and ST7789 library. Initi
 <a name="CO2 click"></a>  
 <img src="Images/IMG_3911_20.jpg" alt="CO2_Click" width="25%"> <img src="Images/IMG_3907_10.jpg" alt="Sensirion" width="20%"> <img src="Images/IMG_3906_10.jpg" alt="SparkFun" width="19%"> 
 
-Test mikroBUS CO2 click board with Sensirion STC31-sensor on "polylab" Development-Board with mikroBUS socket.
+Test mikroBUS CO2 click board with Sensirion STC31-sensor on my "polylab" Development-Board with mikroBUS socket.
 Sketches with Sensirion-Arduino library and SparkFun Arduino Library for STC3x sensor. CO2 gas for testing produced with baking soda and water.
 
 
