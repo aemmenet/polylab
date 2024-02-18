@@ -37,7 +37,7 @@ Flashing Optiboot Bootloader via UPDI Target Header.
 ### First Experimental Tests based on Arduino IDE Examples for Custom Libraries
 
 <img src="Images/IMG_3669_20.jpg" alt="polylab" width="25%"> MCCI LoRaWAN LMIC-node connected to TTN ...  
-Tested with Arduino IDE 1.8.19 and DxCore Version 1.5.11 (No JoinAccept with Arduino IDE Version 2.x!)
+Tested with Arduino IDE 1.8.19 and DxCore Version 1.5.11 (No JoinAccept with Arduino IDE Version 2.x)
 
 <img src="Images/IMG_3674_20.jpg" alt="polylab" width="25%"> <img src="Images/IMG_3768.jpg" alt="polylab" width="25%"> Graphics with SPI TFT displays on mikroBUS™ socket ...  
 Adafruit example sketch *graphicstest.ino* with ST7735 and ST7789 library. Initialize ST7789 240x240 with tft.init(240, 240, __SPI_MODE3__) https://tigoe.github.io/display-examples
