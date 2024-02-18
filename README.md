@@ -7,8 +7,7 @@
 - 2 layer PCB designed with KiCad 7 EDA.
 - KiCad learned with https://www.udemy.com/course/kicad-like-a-pro-3e/
 - PCB manufactured by: https://aisler.net/
-- proprietary form factor: 1/2 credit card size ( 53.98 x 42.8 mm)  
-- 2 x 19 pin pinheader with proprietary "polylab" pinout
+- proprietary form factor: 1/2 credit card size ( 53.98 x 42.8 mm)
 
 ### MCU:
 
