@@ -58,7 +58,7 @@ Sketches with Sensirion-Arduino library and SparkFun Arduino Library for STC3x s
 
 
 ### Peripheral Connectors
-- 2 x 19 pin male pinheader with proprietary "polylab" pinout  
+- 2 x 19 pin male pinheader with Arduino/MKR- Adafruit/Feather- like pinout  
 - mikroBUS™ socket 
 - 2 x Grove connector (I2C & UART)
 - 2 x 4-pin header (female) with Grove Digital/Analog pinout
