@@ -61,7 +61,8 @@ Sketches with Sensirion-Arduino library and SparkFun Arduino Library for STC3x s
 First successful TTN test with Grove Wio E5 LoRa-E5 Arduino Library from Sylvain Montagny.  
 https://github.com/SylvainMontagny/LoRaE5   
 Successful upload of DHT22 sensor data.  
-Successful switching LED_BUILTIN according to PayloadDown value (0x00/0x01)
+Successful switching LED_BUILTIN according to PayloadDown value (0x00/0x01)  
+Next project: mikroBUS Module with LoRa-E5.
 
 
 ### Peripheral Connectors
