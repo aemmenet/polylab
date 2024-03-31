@@ -63,7 +63,7 @@ https://github.com/SylvainMontagny/LoRaE5
 Successful upload of DHT22 sensor data.  
 Successful switching LED_BUILTIN according to PayloadDown value (0x00/0x01)  
 
-<a name="mikroBUS LoRa-E5"></a> 
+<a name="mikroBUS_LoRa-E5"></a> 
 Next project: mikroBUS Module with LoRa-E5. WIP  
 <img src="Images/mikroBUS_LoRa-E5_1.JPG" alt="mikroBUS_LoRa-E5" width="25%">
 
