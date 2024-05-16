@@ -1,7 +1,5 @@
-Is continually being updated ...  
+# Welcome to GitHub Desktop!
 
-### Programming the Microchip AVR Dx Series with Arduino
+This is your README. READMEs are where you can communicate what your project is and how to use it.
 
-- Arduino IDE Tools Config:
-
-- <img src="../Images/Arduino_IDE_Tools_Config.jpg" alt="polylab" width="50%">  
+Write your name on line 6, save it, and then head back to GitHub Desktop.
