@@ -55,7 +55,7 @@ Adafruit example sketch *graphicstest.ino* with ST7735 and ST7789 library. Initi
 Test mikroBUS CO2 click board with Sensirion STC31-sensor on my "polylab" Development-Board with mikroBUS socket.
 Sketches with Sensirion-Arduino library and SparkFun Arduino Library for STC3x sensor. CO2 gas for testing produced with baking soda and water.  
 <a name="LoRa-E5"></a>  
-<img src="Images/IMG_3927_25.jpg" alt="LoRa-E5" width="60%">
+<img src="Images/IMG_3927_25.jpg" alt="LoRa-E5" width="60%">  
 
 First successful TTN test with Grove Wio E5 LoRa-E5 Arduino Library from Sylvain Montagny.  
 https://github.com/SylvainMontagny/LoRaE5   
@@ -63,7 +63,7 @@ Successful upload of DHT22 sensor data.
 Successful switching LED_BUILTIN according to PayloadDown value (0x00/0x01)  
 
 <a name="mikroBUS_LoRa-E5"></a> 
-Next project: mikroBUS Board with Seeed StudioLoRa Grove Wio-E5 Module.
+Next project: mikroBUS Board with Seeed StudioLoRa Grove Wio-E5 Module.  
 <img src="Images/mikroBUS_LoRa-E5_1.JPG" alt="mikroBUS_LoRa-E5" width="25%"> <img src="Images/IMG_3949_20.jpg" alt="done" width="25%"> <img src="Images/IMG_3953_20.jpg" alt="on polylab" width="25%">
 
 
