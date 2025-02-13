@@ -129,17 +129,18 @@ https://www.seeedstudio.com/Wio-SX1262-for-XIAO-p-6379.html?utm_source=Bazaar&ut
 <img src="Images/IMG_4134_20.jpg" alt="triple board" width="25%">
 Test environment: *polylab" Triple-Board with "polylab" Dev.-Board, Wio-SX1262 Module and Bosch BME280 Sensor / SSD1306 OLED Display  
 
+
 Successful LoRaWAN test with Arduino RadioLib library ( https://github.com/jgromes/RadioLib ) on my DIY Microchip AVR64DD32 board with RFM95 Module and Arduino DXcore.
 
-23:29:08.532 -> 
-23:29:08.532 -> Setup ... 
-23:29:08.532 -> Initialise the radio
-23:29:08.576 -> Join ('login') the LoRaWAN Network
-23:29:14.223 -> Ready!
-23:29:14.223 -> 
-23:29:14.270 -> Sending uplink
-23:29:19.897 -> Received a downlink
-23:29:19.940 -> Next uplink in 300 seconds
+- 23:29:08.532 -> 
+- 23:29:08.532 -> Setup ... 
+- 23:29:08.532 -> Initialise the radio
+- 23:29:08.576 -> Join ('login') the LoRaWAN Network
+- 23:29:14.223 -> Ready!
+- 23:29:14.223 -> 
+- 23:29:14.270 -> Sending uplink
+- 23:29:19.897 -> Received a downlink
+- 23:29:19.940 -> Next uplink in 300 seconds
 
 
 
