@@ -127,10 +127,9 @@ https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html?qid=eyJjX3N
 https://www.seeedstudio.com/Wio-SX1262-for-XIAO-p-6379.html?utm_source=Bazaar&utm_campaign=b6f6b14dc1-Bazaar_2_13_25&utm_medium=email&utm_term=0_4b071a49e3-b6f6b14dc1-478246485&goal=0_4b071a49e3-b6f6b14dc1-478246485&mc_cid=b6f6b14dc1&mc_eid=1adbd9da27![grafik](https://github.com/user-attachments/assets/69ebfa74-3a41-41fe-ba31-1cd6c0e59938)  
 
 <img src="Images/IMG_4134_20.jpg" alt="triple board" width="25%">
-Test environment: *polylab" Triple-Board with "polylab" Dev.-Board, Wio-SX1262 Module and Bosch BME280 Sensor / SSD1306 OLED Display  
+Test environment: *polylab" Triple-Board with "polylab" Dev.-Board, Wio-SX1262 Module and Bosch BME280 Sensor / SSD1306 OLED Display   
 
-
-Successful LoRaWAN test with Arduino RadioLib library ( https://github.com/jgromes/RadioLib ) on my DIY Microchip AVR64DD32 board with RFM95 Module and Arduino DXcore.
+Successful LoRaWAN test with Arduino RadioLib library ( https://github.com/jgromes/RadioLib ) on my DIY Microchip AVR64DD32 board with Wio-SX1262 Module and Arduino DXcore.
 
 - 23:29:08.532 -> 
 - 23:29:08.532 -> Setup ... 
