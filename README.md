@@ -118,7 +118,7 @@ This board is still a WiP! There is a list with many changes, improvements and e
 - Energy Harvesting (https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery)
 
 <a name="mikroBUS_Wio-SX1262"></a>
-### mikroBUS Board with Seeed Studio Wio-SX1262 Module.
+#### mikroBUS Board with Seeed Studio Wio-SX1262 Module.
 
 https://www.seeedstudio.com/Wio-SX1262-Wireless-Module-p-5981.html?qid=eyJjX3NlYXJjaF9xdWVyeSI6InN4MTI2MiIsImNfc2VhcmNoX3Jlc3VsdF9wb3MiOjEsImNfdG90YWxfcmVzdWx0cyI6NSwiY19zZWFyY2hfcmVzdWx0X3R5cGUiOiJQcm9kdWN0IiwiY19zZWFyY2hfZmlsdGVycyI6InN0b3JlQ29kZTpbcmV0YWlsZXJdICYmIHF1YW50aXR5X2FuZF9zdG9ja19zdGF0dXM6WzFdIn0%3D![grafik](https://github.com/user-attachments/assets/c698980a-6fcb-4ff7-b31b-46413315f2c3)
 
