@@ -124,8 +124,7 @@ https://github.com/SpenceKonde/DxCore Arduino support for the AVR DA, DB-series 
 https://github.com/SpenceKonde/DxCore Arduino support for the AVR DA, DB-series and DD-series  
 
 <img src="Images/mikroBUS_LoRa-E5_1.JPG" alt="mikroBUS_LoRa-E5" width="25%">
-<img src="Images/mikroBUS_LoRa-E5_1.JPG" alt="mikroBUS_LoRa-E5" width="25%">
 Comment  
-<img src="Images/mikroBUS_LoRa-E5_1.JPG" alt="mikroBUS_LoRa-E5" width="25%">
+
 
 
