@@ -108,11 +108,15 @@ This board is still a WiP! There is a list with many changes, improvements and e
 
 <img src="Images/IMG_3733_20.jpg" alt="side by side" width="25%"> made with regular protoboards and pinheaders
 
+### Modelling a case with OpenSCAD (done) (https://openscad.org)
+
+<img src="Images/IMG_3846_20.jpg" alt="case" width="25%"> <img src="Images/IMG_3847_20.jpg" alt="case" width="25%"> <img src="Images/IMG_3848_20.jpg" alt="case" width="25%">
+
 #### Planned:
 
 - Low Power / Sleep Mode  
 - Energy Harvesting (https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery)
-- Modelling a case with OpenSCAD (done) (https://openscad.org)
-
-<img src="Images/IMG_3846_20.jpg" alt="case" width="25%"> <img src="Images/IMG_3847_20.jpg" alt="case" width="25%"> <img src="Images/IMG_3848_20.jpg" alt="case" width="25%">
-
+- <a name="mikroBUS_Wio-SX1262"></a> 
+- mikroBUS Board with Seeed StudioLoRa Grove Wio-E5 Module.
+* https://github.com/SpenceKonde/DxCore Arduino support for the AVR DA, DB-series and DD-series
+<img src="Images/mikroBUS_LoRa-E5_1.JPG" alt="mikroBUS_LoRa-E5" width="25%"> <img src="Images/IMG_3949_20.jpg" alt="done" width="25%"> 
