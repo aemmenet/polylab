@@ -121,7 +121,11 @@ This board is still a WiP! There is a list with many changes, improvements and e
 - mikroBUS Board with Seeed Studio Wio-SX1262 Module.
 
 https://github.com/SpenceKonde/DxCore Arduino support for the AVR DA, DB-series and DD-series  
+https://github.com/SpenceKonde/DxCore Arduino support for the AVR DA, DB-series and DD-series  
+
 <img src="Images/mikroBUS_LoRa-E5_1.JPG" alt="mikroBUS_LoRa-E5" width="25%">
-Comment
+<img src="Images/mikroBUS_LoRa-E5_1.JPG" alt="mikroBUS_LoRa-E5" width="25%">
+Comment  
+<img src="Images/mikroBUS_LoRa-E5_1.JPG" alt="mikroBUS_LoRa-E5" width="25%">
 
 
