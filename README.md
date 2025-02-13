@@ -116,7 +116,8 @@ This board is still a WiP! There is a list with many changes, improvements and e
 
 - Low Power / Sleep Mode  
 - Energy Harvesting (https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery)
-- <a name="mikroBUS_Wio-SX1262"></a> 
-- mikroBUS Board with Seeed StudioLoRa Grove Wio-E5 Module.
-* https://github.com/SpenceKonde/DxCore Arduino support for the AVR DA, DB-series and DD-series
-<img src="Images/mikroBUS_LoRa-E5_1.JPG" alt="mikroBUS_LoRa-E5" width="25%"> <img src="Images/IMG_3949_20.jpg" alt="done" width="25%"> 
+
+- <a name="mikroBUS_Wio-SX1262"></a>
+- mikroBUS Board with Seeed Studio Wio-SX1262 Module.
+* https://github.com/SpenceKonde/DxCore Arduino support for the AVR DA, DB-series and DD-series  
+<img src="Images/mikroBUS_LoRa-E5_1.JPG" alt="mikroBUS_LoRa-E5" width="25%">
