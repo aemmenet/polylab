@@ -123,7 +123,8 @@ This board is still a WiP! There is a list with many changes, improvements and e
 https://www.seeedstudio.com/Wio-SX1262-Wireless-Module-p-5981.html?qid=eyJjX3NlYXJjaF9xdWVyeSI6InN4MTI2MiIsImNfc2VhcmNoX3Jlc3VsdF9wb3MiOjEsImNfdG90YWxfcmVzdWx0cyI6NSwiY19zZWFyY2hfcmVzdWx0X3R5cGUiOiJQcm9kdWN0IiwiY19zZWFyY2hfZmlsdGVycyI6InN0b3JlQ29kZTpbcmV0YWlsZXJdICYmIHF1YW50aXR5X2FuZF9zdG9ja19zdGF0dXM6WzFdIn0%3D![grafik](https://github.com/user-attachments/assets/c698980a-6fcb-4ff7-b31b-46413315f2c3)
 
 https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html?qid=eyJjX3NlYXJjaF9xdWVyeSI6IioiLCJjX3NlYXJjaF9yZXN1bHRfcG9zIjoxOCwiY190b3RhbF9yZXN1bHRzIjo2MjcsImNfc2VhcmNoX3Jlc3VsdF90eXBlIjoiUHJvZHVjdCIsImNfc2VhcmNoX2ZpbHRlcnMiOiJzdG9yZUNvZGU6W3JldGFpbGVyXSAmJiBjYXRlZ29yeV9pZHM6WzIyODRdICYmIHF1YW50aXR5X2FuZF9zdG9ja19zdGF0dXM6WzFdIn0%3D![grafik](https://github.com/user-attachments/assets/4d3b7dc9-6213-49aa-9d12-4241acb9674c)
-  
+
+https://www.seeedstudio.com/Wio-SX1262-for-XIAO-p-6379.html?utm_source=Bazaar&utm_campaign=b6f6b14dc1-Bazaar_2_13_25&utm_medium=email&utm_term=0_4b071a49e3-b6f6b14dc1-478246485&goal=0_4b071a49e3-b6f6b14dc1-478246485&mc_cid=b6f6b14dc1&mc_eid=1adbd9da27![grafik](https://github.com/user-attachments/assets/69ebfa74-3a41-41fe-ba31-1cd6c0e59938)  
 
 <img src="Images/mikroBUS_LoRa-E5_1.JPG" alt="mikroBUS_LoRa-E5" width="25%">
 Comment  
