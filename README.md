@@ -129,7 +129,7 @@ https://www.seeedstudio.com/Wio-SX1262-for-XIAO-p-6379.html
 <img src="Images/IMG_4134_20.jpg" alt="triple board" width="25%">  
 Test environment: *polylab" Triple-Board with "polylab" Dev.-Board, Wio-SX1262 Module and Bosch BME280 Sensor / SSD1306 OLED Display
 </br></br>
-Successful LoRaWAN test with Arduino RadioLib library ( https://github.com/jgromes/RadioLib ) on my DIY Microchip AVR64DD32 board with Wio-SX1262 Module and Arduino DXcore.
+Successful LoRaWAN test with **Arduino RadioLib library** ( https://github.com/jgromes/RadioLib ) on my DIY Microchip AVR64DD32 board with Wio-SX1262 Module and Arduino DXcore.
 
 - 23:29:08.532 -> 
 - 23:29:08.532 -> Setup ... 
@@ -146,7 +146,7 @@ Sketch uses 63572 bytes (97%) of program storage space. Maximum is 65024 bytes.
 Comment of the maintainer of the RadioLib library: Unfortunately, small footprint was not one of the design goals of this library!
 
 
-The Arduino MCCI LoRaWAN LMIC library ( https://docs.arduino.cc/libraries/mcci-lorawan-lmic-library ) supports the SX1262 since Verion 5.0.0 but the setup for the Seeed Studio Wio-SX1262 doesn't work yet.  
+The **Arduino MCCI LoRaWAN LMIC library** ( https://docs.arduino.cc/libraries/mcci-lorawan-lmic-library ) supports the SX1262 since Verion 5.0.0 but the setup for the Seeed Studio Wio-SX1262 doesn't work yet.  
 
 
 
