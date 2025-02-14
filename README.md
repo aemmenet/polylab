@@ -153,7 +153,7 @@ Comment of the maintainer of the RadioLib library: Unfortunately, small footprin
 The **Arduino MCCI LoRaWAN LMIC library** ( https://docs.arduino.cc/libraries/mcci-lorawan-lmic-library ) supports the SX1262 since Verion 5.0.0 but the setup for the Seeed Studio Wio-SX1262 doesn't work yet.  
 
 The microBUS-layout will be based on the two already made modules.  
-<img src="Images/IMG_3942_20a.jpg" alt="made" width="25%">
+<img src="Images/IMG_3949_20a.jpg" alt="made" width="25%">
 
 
 
