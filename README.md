@@ -141,7 +141,11 @@ Successful LoRaWAN test with Arduino RadioLib library ( https://github.com/jgrom
 - 23:29:19.897 -> Received a downlink
 - 23:29:19.940 -> Next uplink in 300 seconds
 
-The Arduino MCCI LoRaWAN LMIC library ( https://docs.arduino.cc/libraries/mcci-lorawan-lmic-library ) supports the SX1262 since Verion 5.0.0 but the setup for the Seeed Studio Wio-SX1262 doesn't work yet.
+The Arduino MCCI LoRaWAN LMIC library ( https://docs.arduino.cc/libraries/mcci-lorawan-lmic-library ) supports the SX1262 since Verion 5.0.0 but the setup for the Seeed Studio Wio-SX1262 doesn't work yet.  
+
+Test https://www.seeedstudio.com/Wio-SX1262-Wireless-Module-p-5981.html?qid=eyJjX3NlYXJjaF9xdWVyeSI6InN4MTI2MiIsImNfc2VhcmNoX3Jlc3VsdF9wb3MiOjEsImNfdG90YWxfcmVzdWx0cyI6NSwiY19zZWFyY2hfcmVzdWx0X3R5cGUiOiJQcm9kdWN0IiwiY19zZWFyY2hfZmlsdGVycyI6InN0b3JlQ29kZTpbcmV0YWlsZXJdICYmIHF1YW50aXR5X2FuZF9zdG9ja19zdGF0dXM6WzFdIn0%3D
+
+
 
 
 
