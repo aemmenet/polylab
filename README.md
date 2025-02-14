@@ -149,7 +149,6 @@ Disadvantage of Arduino RadioLib library:
 Sketch uses 63572 bytes (97%) of program storage space. Maximum is 65024 bytes.
 Comment of the maintainer of the RadioLib library: Unfortunately, small footprint was not one of the design goals of this library!
 
-
 The **Arduino MCCI LoRaWAN LMIC library** ( https://docs.arduino.cc/libraries/mcci-lorawan-lmic-library ) supports the SX1262 since Verion 5.0.0 but the setup for the Seeed Studio Wio-SX1262 doesn't work yet.  
 
 The microBUS-layout will be based on the two already made modules.  
