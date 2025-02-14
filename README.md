@@ -129,7 +129,7 @@ https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html
 Wio-SX1262 for XIAO  
 https://www.seeedstudio.com/Wio-SX1262-for-XIAO-p-6379.html
 </br></br>
-Test environment:
+Test environment:  
 <img src="Images/IMG_4134_20.jpg" alt="triple board" width="25%"> <img src="Images/IMG_4136_20.jpg" alt="SX1262" width="25%"> <img src="Images/IMG_4137_20.jpg" alt="display" width="25%">  
 "polylab" Triple-Board with "polylab" Dev.-Board, Wio-SX1262 extension board and Bosch BME280 Sensor / SSD1306 OLED Display
 </br></br>
