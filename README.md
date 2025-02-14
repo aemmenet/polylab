@@ -120,6 +120,7 @@ This board is still a WiP! There is a list with many changes, improvements and e
 <a name="mikroBUS_Wio-SX1262"></a>
 ### Work in Progress: mikroBUS Board with Seeed Studio Wio-SX1262 Module.
 
+Wio-SX1262 Wireless Module
 https://www.seeedstudio.com/Wio-SX1262-Wireless-Module-p-5981.html
 
 https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html
