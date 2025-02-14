@@ -141,7 +141,7 @@ Successful LoRaWAN test with Arduino RadioLib library ( https://github.com/jgrom
 - 23:29:19.897 -> Received a downlink
 - 23:29:19.940 -> Next uplink in 300 seconds
 
-Disadvantage of Arduino radiolib Library:
+Disadvantage of Arduino RadioLib library:
 Sketch uses 63572 bytes (97%) of program storage space. Maximum is 65024 bytes.
 Comment of the maintainer of the RadioLib library: Unfortunately, small footprint was not one of the design goals of this library!
 
