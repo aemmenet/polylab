@@ -119,7 +119,7 @@ This board is still a WiP! There is a list with many changes, improvements and e
    [Energy Harvesting](https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery)
 
 <a name="mikroBUS_Wio-SX1262"></a>
-### Work in Progress: mikroBUS Board with Seeed Studio Wio-SX1262 Module.
+### Work in Progress: mikroBUS™ Board with Seeed Studio Wio-SX1262 Module.
 
    [Wio-SX1262 Wireless Module](https://www.seeedstudio.com/Wio-SX1262-Wireless-Module-p-5981.html)<br>
    [XIAO ESP32S3 & Wio-SX1262 Kit for Meshtastic & LoRa](https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html)<br>
@@ -147,7 +147,7 @@ Comment of the maintainer of the RadioLib library: Unfortunately, small footprin
 
 The [Arduino MCCI LoRaWAN LMIC library](https://docs.arduino.cc/libraries/mcci-lorawan-lmic-library) supports the SX1262 since [Verion 5](https://github.com/mcci-catena/arduino-lmic/discussions/982) but my setup for the Wio-SX1262 doesn't work yet.  
 
-The microBUS-layout will be based on these two modules already made:<br>
+The mikroBUS™-layout will be based on these two modules already made:<br>
 <img src="Images/IMG_3949_20a.jpg" alt="made" width="25%">
 
 
