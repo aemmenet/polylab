@@ -115,8 +115,8 @@ This board is still a WiP! There is a list with many changes, improvements and e
 
 ### Planned:
 
-- Low Power / Sleep Mode  
-- [Energy Harvesting](https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery)
+   Low Power / Sleep Mode<br>
+   [Energy Harvesting](https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery)<br>
 
 <a name="mikroBUS_Wio-SX1262"></a>
 ### Work in Progress: mikroBUS Board with Seeed Studio Wio-SX1262 Module.
