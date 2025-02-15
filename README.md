@@ -147,7 +147,7 @@ Comment of the maintainer of the RadioLib library: Unfortunately, small footprin
 
 The [Arduino MCCI LoRaWAN LMIC library](https://docs.arduino.cc/libraries/mcci-lorawan-lmic-library) supports the SX1262 since [Verion 5](https://github.com/mcci-catena/arduino-lmic/discussions/982) but my setup for the Wio-SX1262 doesn't work yet.  
 
-The microBUS-layout will be based on these two modules already made.  
+The microBUS-layout will be based on these two modules already made:<br>
 <img src="Images/IMG_3949_20a.jpg" alt="made" width="25%">
 
 
