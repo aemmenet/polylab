@@ -121,9 +121,9 @@ This board is still a WiP! There is a list with many changes, improvements and e
 <a name="mikroBUS_Wio-SX1262"></a>
 ### Work in Progress: mikroBUS Board with Seeed Studio Wio-SX1262 Module.
 
-- [Wio-SX1262 Wireless Module](https://www.seeedstudio.com/Wio-SX1262-Wireless-Module-p-5981.html)<br>
-- [XIAO ESP32S3 & Wio-SX1262 Kit for Meshtastic & LoRa](https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html)<br>
-- [Wio-SX1262 for XIAO](https://www.seeedstudio.com/Wio-SX1262-for-XIAO-p-6379.html)<br>
+   [Wio-SX1262 Wireless Module](https://www.seeedstudio.com/Wio-SX1262-Wireless-Module-p-5981.html)<br>
+   [XIAO ESP32S3 & Wio-SX1262 Kit for Meshtastic & LoRa](https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html)<br>
+   [Wio-SX1262 for XIAO](https://www.seeedstudio.com/Wio-SX1262-for-XIAO-p-6379.html)<br>
 </br></br>
 Test environment:  
 <img src="Images/IMG_4134_20.jpg" alt="triple board" width="25%"> <img src="Images/IMG_4136_20.jpg" alt="SX1262" width="25%"> <img src="Images/IMG_4137_20.jpg" alt="display" width="25%">  
