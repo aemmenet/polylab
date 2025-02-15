@@ -136,12 +136,12 @@ Successful LoRaWAN test with [Arduino RadioLib library](https://github.com/jgrom
    23:29:08.532 -><br>
    23:29:08.532 -> Setup ...<br>
    23:29:08.532 -> Initialise the radio<br>
-- 23:29:08.576 -> Join ('login') the LoRaWAN Network
-- 23:29:14.223 -> Ready!
-- 23:29:14.223 -> 
-- 23:29:14.270 -> Sending uplink
-- 23:29:19.897 -> Received a downlink
-- 23:29:19.940 -> Next uplink in 300 seconds
+   23:29:08.576 -> Join ('login') the LoRaWAN Network<br>
+   23:29:14.223 -> Ready!<br>
+   23:29:14.223 -><br>
+   23:29:14.270 -> Sending uplink<br>
+   23:29:19.897 -> Received a downlink<br>
+   23:29:19.940 -> Next uplink in 300 seconds<br>
 
 Disadvantage of Arduino RadioLib library:
 Sketch uses 63572 bytes (97%) of program storage space. Maximum is 65024 bytes.  
