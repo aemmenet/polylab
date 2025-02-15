@@ -133,9 +133,9 @@ Test environment:
 </br></br>
 Successful LoRaWAN test with [Arduino RadioLib library](https://github.com/jgromes/RadioLib) on my DIY Microchip AVR64DD32 board with Wio-SX1262 Module and Arduino DXcore.
 
-- 23:29:08.532 -> 
-- 23:29:08.532 -> Setup ... 
-- 23:29:08.532 -> Initialise the radio
+   23:29:08.532 -> 
+   23:29:08.532 -> Setup ... 
+   23:29:08.532 -> Initialise the radio
 - 23:29:08.576 -> Join ('login') the LoRaWAN Network
 - 23:29:14.223 -> Ready!
 - 23:29:14.223 -> 
