@@ -131,14 +131,14 @@ Test environment:
 </br></br>
 Successful LoRaWAN test with [Arduino RadioLib library](https://github.com/jgromes/RadioLib) on my DIY Microchip AVR64DD32 board with Wio-SX1262 Module and Arduino DXcore.
 
-   23:29:08.532 -><br>
-   23:29:08.532 -> Setup ...<br>
-   23:29:08.532 -> Initialise the radio<br>
-   23:29:08.576 -> Join ('login') the LoRaWAN Network<br>
-   23:29:14.223 -> Ready!<br>
-   23:29:14.223 -><br>
-   23:29:14.270 -> Sending uplink<br>
-   23:29:19.897 -> Received a downlink<br>
+   23:29:08 -><br>
+   23:29:08 -> Setup ...<br>
+   23:29:08 -> Initialise the radio<br>
+   23:29:08 -> Join ('login') the LoRaWAN Network<br>
+   23:29:14 -> Ready!<br>
+   23:29:14 -><br>
+   23:29:14 -> Sending uplink<br>
+   23:29:19 -> Received a downlink<br>
    23:29:19.940 -> Next uplink in 300 seconds<br>
 
 Disadvantage of Arduino RadioLib library:
