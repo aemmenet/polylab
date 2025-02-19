@@ -129,7 +129,7 @@ Test environment:
 <img src="Images/IMG_4134_20.jpg" alt="triple board" width="25%"> <img src="Images/IMG_4136_20.jpg" alt="SX1262" width="25%"> <img src="Images/IMG_4137_20.jpg" alt="display" width="25%">  
 "polylab" Triple-Board with "polylab" Dev.-Board, Wio-SX1262 Extension Board and Bosch BME280 Sensor/SSD1306 OLED Display Board.
 </br></br>
-Successful LoRaWAN test with [Arduino RadioLib library](https://github.com/jgromes/RadioLib) on my DIY Microchip AVR64DD32 board with Wio-SX1262 Module and Arduino DXcore.
+- Successful LoRaWAN test with [Arduino RadioLib library](https://github.com/jgromes/RadioLib) on my DIY Microchip AVR64DD32 board with Wio-SX1262 Module and Arduino DXcore.
 
    23:29:08 -><br>
    23:29:08 -> Setup ...<br>
@@ -144,7 +144,7 @@ Successful LoRaWAN test with [Arduino RadioLib library](https://github.com/jgrom
 Disadvantage of Arduino RadioLib library:
 Sketch uses 63572 bytes (97%) of program storage space. Maximum is 65024 bytes. Comment of the maintainer of the RadioLib library: Unfortunately, small footprint was not one of the design goals of this library!
 
-The [Arduino MCCI LoRaWAN LMIC library](https://docs.arduino.cc/libraries/mcci-lorawan-lmic-library) supports the SX1262 since [Verion 5](https://github.com/mcci-catena/arduino-lmic/discussions/982) but my setup for the Wio-SX1262 doesn't work yet. The Arduino MCCI LoRaWAN LMIC library would require much less flash memory than the Arduino Radiolib library.<br>
+- The [Arduino MCCI LoRaWAN LMIC library](https://docs.arduino.cc/libraries/mcci-lorawan-lmic-library) supports the SX1262 since [Verion 5](https://github.com/mcci-catena/arduino-lmic/discussions/982) but my setup for the Wio-SX1262 doesn't work yet. The Arduino MCCI LoRaWAN LMIC library would require much less flash memory than the Arduino Radiolib library.<br>
 The [LMIC-node repository](https://github.com/lnlp/LMIC-node?tab=readme-ov-file#22-development-boards-with-external-spi-lora-module) still does't support development boards with external Semtech SX1262 spi lora modules.
 
 The mikroBUS™-layout will be based on these two modules (Wio LoRa-E5 & RFM95W) already made:<br>
