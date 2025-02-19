@@ -141,8 +141,8 @@ Test environment:
    23:29:19 -> Received a downlink<br>
    23:29:19 -> Next uplink in 300 seconds<br>
 
-- Disadvantage of Arduino RadioLib library:
-Sketch uses 63572 bytes (97%) of program storage space. Maximum is 65024 bytes. Comment of the maintainer of the RadioLib library: Unfortunately, small footprint was not one of the design goals of this library!
+   Disadvantage of Arduino RadioLib library:
+Sketch uses 63572 bytes (97%) of program storage space. Maximum is 65024 bytes. Comment of the maintainer of the RadioLib library: Unfortunately, small footprint was not one of the design  goals of this library!
 
 - The [Arduino MCCI LoRaWAN LMIC library](https://docs.arduino.cc/libraries/mcci-lorawan-lmic-library) supports the SX1262 since [Verion 5](https://github.com/mcci-catena/arduino-lmic/discussions/982) but my setup for the Wio-SX1262 doesn't work yet. The Arduino MCCI LoRaWAN LMIC library would require much less flash memory than the Arduino Radiolib library.<br>
 The [LMIC-node repository](https://github.com/lnlp/LMIC-node?tab=readme-ov-file#22-development-boards-with-external-spi-lora-module) still does't support development boards with external Semtech SX1262 spi lora modules.
