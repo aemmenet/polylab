@@ -146,6 +146,28 @@ Sketch uses 63572 bytes (97%) of program storage space. Maximum is 65024 bytes. 
 
 - The [Arduino MCCI LoRaWAN LMIC library](https://docs.arduino.cc/libraries/mcci-lorawan-lmic-library) supports the SX1262 since [Verion 5](https://github.com/mcci-catena/arduino-lmic/discussions/982) but my setup for the Wio-SX1262 doesn't work yet.
 - Success! Based on the configuration suggestion of Tristan Webber my Wio-SX1262 example sketch is running fine! https://github.com/mcci-catena/arduino-lmic/discussions/982
+
+   18:42:31.536 -> Starting
+   18:42:31.536 ->
+   18:42:31.715 -> Sensor Bosch BME280:
+   18:42:31.715 -> Temperature = 23.53 °C
+   18:42:31.715 -> Humidity = 38.00 %
+   18:42:31.715 -> Pressure = 967.33 mbar
+   18:42:31.715 ->
+   18:42:31.715 -> Packet queued
+   18:42:31.715 -> 95802: EV_JOINING
+   18:42:33.700 -> 217275: EV_TXSTART
+   18:42:38.871 -> 540886: EV_JOINED
+   18:42:38.871 ->
+   18:42:39.366 -> NetID: 19
+   18:42:39.366 -> DevAddr: 260Bxxxx
+   18:42:39.366 -> AppSKey: 59-65-0B-86-E8-42-5E-D0-xx-xx-xx-xx-xx-xx-xx-xx
+   18:42:39.366 -> NwkSKey: 38-E4-86-1D-35-68-80-20-xx-xx-xx-xx-xx-xx-xx-xx
+   18:42:39.409 ->
+   18:42:39.409 -> 574648: EV_TXSTART
+   18:42:45.562 -> 959303: EV_TXCOMPLETE (includes waiting for RX windows)
+   18:42:45.562 -> Up: 1, Down: 0
+  
 - The Arduino MCCI LoRaWAN LMIC library requires much less flash memory than the Arduino Radiolib library.<br>
 The [LMIC-node repository](https://github.com/lnlp/LMIC-node?tab=readme-ov-file#22-development-boards-with-external-spi-lora-module) still does't support development boards with external Semtech SX1262 spi lora modules.
 
