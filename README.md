@@ -170,7 +170,7 @@ Sketch uses 63572 bytes (97%) of program storage space. Maximum is 65024 bytes. 
   
 - The Arduino MCCI LoRaWAN LMIC library requires much less flash memory than the Arduino Radiolib library.<br>
 
-The [LMIC-node repository](https://github.com/lnlp/LMIC-node?tab=readme-ov-file#22-development-boards-with-external-spi-lora-module) still does't support development boards with external Semtech SX1262 spi lora modules.
+- The [LMIC-node repository](https://github.com/lnlp/LMIC-node?tab=readme-ov-file#22-development-boards-with-external-spi-lora-module) still does't support development boards with external Semtech SX1262 spi lora modules. This may change with the library version 5.
 
 - The mikroBUS™-layout will be based on these two modules (Wio LoRa-E5 & RFM95W) already made:<br>
   <img src="Images/IMG_3949_20a.jpg" alt="made" width="25%">
