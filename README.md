@@ -175,6 +175,7 @@ Sketch uses 63572 bytes (97%) of program storage space. Maximum is 65024 bytes. 
 - The mikroBUS™-layout will be based on these two modules (Wio LoRa-E5 & RFM95W) already made:<br>
   <img src="Images/IMG_3949_20a.jpg" alt="made" width="25%">
 
+- Wio SX1262 mikroBUS™ Modul Prototype
   <img src="Images/IMG_4142_20.jpg" alt="mikroBUS modul" width="25%">
   <img src="Images/IMG_4144_20.jpg" alt="top view" width="25%">
   <img src="Images/IMG_4145_20.jpg" alt="bottom view" width="25%">
