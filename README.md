@@ -144,8 +144,7 @@ Test environment:
    Disadvantage of Arduino RadioLib library:
 Example Sketch uses 63572 bytes (97%) of program storage space. Maximum is 65024 bytes. Comment of the maintainer of the RadioLib library: Unfortunately, small footprint was not one of the design  goals of this library!
 
-- The [Arduino MCCI LoRaWAN LMIC library](https://docs.arduino.cc/libraries/mcci-lorawan-lmic-library) supports the SX1262 since [Verion 5](https://github.com/mcci-catena/arduino-lmic/discussions/982) but my setup for the Wio-SX1262 doesn't work yet.
-- Success! Based on the configuration suggestion of Tristan Webber my Wio-SX1262 example sketch is running fine! https://github.com/mcci-catena/arduino-lmic/discussions/982
+- The [Arduino MCCI LoRaWAN LMIC library](https://docs.arduino.cc/libraries/mcci-lorawan-lmic-library) supports the SX1262 since [Verion 5](https://github.com/mcci-catena/arduino-lmic/discussions/982). Based on the configuration suggestion of Tristan Webber my Wio-SX1262 example sketch is running fine! https://github.com/mcci-catena/arduino-lmic/discussions/982
 
    18:42:31.536 -> Starting<br>
    18:42:31.536 -><br>
