@@ -175,15 +175,10 @@ Example Sketch uses 63572 bytes (97%) of program storage space. Maximum is 65024
   <img src="Images/IMG_3949_20a.jpg" alt="made" width="25%">
 
 - Wio SX1262 mikroBUS™ Modul Prototype:<br>
-  <img src="Images/IMG_4142_20.jpg" alt="mikroBUS modul" width="25%"> Prototype mikroBUS™ Modul with Seeed Studio Wio-SX1262 Modem
+  <img src="Images/IMG_4142_20.jpg" alt="mikroBUS modul" width="25%"><img src="Images/IMG_4144_20.jpg" alt="top view" width="25%"><img src="Images/IMG_4145_20.jpg" alt="bottom view" width="25%"> Prototype mikroBUS™ Modul with Seeed Studio Wio-SX1262 Modem / Prototype top view / Prototype bottom view
   
-  <img src="Images/IMG_4144_20.jpg" alt="top view" width="25%"> Prototype top view
-  
-  <img src="Images/IMG_4145_20.jpg" alt="bottom view" width="25%"> Prototype bottom view
-  
-  <img src="Images/IMG_4146_20.jpg" alt="on polylab board" width="25%"> mikroBUS™ Prototype Modul on polylab Dev. Board mikroBUS™ Socket
-  
-  <img src="Images/IMG_4148_20.jpg" alt="node" width="25%"> Running my TTN LoRaWAN Node sketch
+  <img src="Images/IMG_4146_20.jpg" alt="on polylab board" width="25%"><img src="Images/IMG_4148_20.jpg" alt="node" width="25%"> mikroBUS™ Prototype Modul on polylab Dev. Board mikroBUS™ Socket
+ /  Running my TTN LoRaWAN Node sketch
   
   
 
