@@ -127,7 +127,7 @@ This board is still a WiP! There is a list with many changes, improvements and e
 </br>
 Test environment:  
 <img src="Images/IMG_4134_20.jpg" alt="triple board" width="25%"> <img src="Images/IMG_4136_20.jpg" alt="SX1262" width="25%"> <img src="Images/IMG_4137_20.jpg" alt="display" width="25%">  
-"polylab" Triple-Board with "polylab" Dev.-Board, Wio-SX1262 Extension Board and Bosch BME280 Sensor/SSD1306 OLED Display Board.
+"polylab" Triple-Board with ["polylab" Dev.-Board](https://github.com/aemmenet/polylab#polylab-diy-microchip-avr-dx32-series-development-board), Wio-SX1262 Extension Board and Bosch BME280 Sensor/SSD1306 OLED Display Board.
 </br></br>
 - Successful LoRaWAN test with [Arduino RadioLib library](https://github.com/jgromes/RadioLib) on my DIY Microchip AVR64DD32 board with Wio-SX1262 Module and Arduino DXcore.
 
