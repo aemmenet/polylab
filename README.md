@@ -97,7 +97,7 @@ This board is still a WiP! There is a list with many changes, improvements and e
 
 ### "polylab"-Prototyping Ecosystem:
 
-<img src="Images/IMG_3726_20.jpg" alt="side by side" width="25%"> <img src="Images/IMG_3727_20.jpg" alt="breadboard" width="25%"> <img src="Images/IMG_3729_20.jpg" alt="stacking" width="25%"> <img src="Images/IMG_3851_20.jpg" alt="Power" width="25%"><br>
+<img src="Images/IMG_3726_20.jpg" alt="side by side" width="24%"> <img src="Images/IMG_3727_20.jpg" alt="breadboard" width="24%"> <img src="Images/IMG_3729_20.jpg" alt="stacking" width="24%"> <img src="Images/IMG_3851_20.jpg" alt="Power" width="24%"><br>
 PCB on doubler board / PCB on breadboard / PCB stacked / powered with DC (9V battery), USB or LiPo
 
 ### "polylab"-Custom Boards:
