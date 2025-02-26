@@ -45,7 +45,7 @@ Adafruit example sketch *graphicstest.ino* with ST7735 and ST7789 library. Initi
 
 <img src="Images/IMG_3677_20.jpg" alt="Clock" width="24%"> <img src="Images/IMG_3792_20.jpg" alt="Stepper Motor" width="24%"> <img src="Images/IMG_3830_20.jpg" alt="DHT22" width="24%"> <img src="Images/IMG_3832_20.jpg" alt="Servo" width="24%"> <br>
 needs to be synced with RTC or GPS / PoLoLu Stepper Motor Driver on mikroBUS™ Modul / DHT22 Temperature/Humidity Sensor (incl. Payload Encoding / Decoding) / Servo Sweep (#include <Servo_DxCore.h>)
-<a name="CO2 click"><br> 
+<a name="CO2 click"> <br> <br>
 <img src="Images/IMG_3911_20.jpg" alt="CO2_Click" width="25%"> <img src="Images/IMG_3907_10.jpg" alt="Sensirion" width="20%"> <img src="Images/IMG_3906_10.jpg" alt="SparkFun" width="19%"> 
 
 Test mikroBUS CO2 click board with Sensirion STC31-sensor on my "polylab" Development-Board with mikroBUS socket.
