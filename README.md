@@ -58,7 +58,7 @@ Successful upload of DHT22 sensor data.
 Successful switching LED_BUILTIN according to PayloadDown value (0x00/0x01)    
 
 <a name="mikroBUS_LoRa-E5"></a> 
-Next project: mikroBUS Board with Seeed StudioLoRa Grove Wio-E5 Module.  
+Next project: mikroBUS Board with Seeed Studio Grove Wio-E5 Module.  
 <img src="Images/mikroBUS_LoRa-E5_1.JPG" alt="mikroBUS_LoRa-E5" width="25%"> <img src="Images/IMG_3949_20.jpg" alt="done" width="25%"> <img src="Images/IMG_3953_20.jpg" alt="on polylab" width="25%">
 
 
@@ -82,7 +82,7 @@ This board is still a WiP! There is a list with many changes, improvements and e
 ### DIY mikroBUS™ Socket compatibles Hardware-Modules:
 
 <img src="Images/IMG_3731_20.jpg" alt="RFM95W" width="24%"> <img src="Images/IMG_4150_20.jpg" alt="RFM95W" width="24%"> <img src="Images/IMG_4151_20.jpg" alt="RFM95W" width="24%"> <br>
-Breakout adapter from RFM95W module to mikroBUS™ socket
+Modules for RFM95W / Seeed Studio Grove Wio-E5 Module / Seeed Studio Wio-SX1262
 
 <img src="Images/IMG_3730_20.jpg" alt="NeoPixel" width="24%"> <img src="Images/IMG_3855_20.jpg" alt="NeoPixel" width="24%"> <img src="Images/IMG_3728_20.jpg" alt="LED" title="LED" width="25%"> <br>
 8 daisy-chained NeoPixel / LED's on all pins for mikroBUS™ socket testing
