@@ -156,7 +156,7 @@ Example Sketch uses **63572 bytes** (97%) of program storage space. Maximum is 6
    18:42:45.562 -> 959303: EV_TXCOMPLETE (includes waiting for RX windows)<br>
    18:42:45.562 -> Up: 1, Down: 0<br>
   
-- The Arduino MCCI LoRaWAN LMIC library requires much less flash memory than the Arduino Radiolib library. The example sketch uses only **26918 bytes** (41%) of program storage space. Maximum is 65024 bytes.<br>
+- The Arduino MCCI LoRaWAN LMIC library requires less than half flash memory than the Arduino Radiolib library. The example sketch uses only **26918 bytes** (41%) of program storage space. Maximum is 65024 bytes.<br>
 
 - The [LMIC-node repository](https://github.com/lnlp/LMIC-node?tab=readme-ov-file#22-development-boards-with-external-spi-lora-module) still does't support development boards with external Semtech SX1262 spi lora modules. This may change with the library Version 5.
 
