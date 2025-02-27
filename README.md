@@ -8,6 +8,7 @@
 - [KiCad learned with ûdemy course](https://www.udemy.com/course/kicad-like-a-pro-3e)
 - [PCB manufactured by Aisler]( https://aisler.net)
 - proprietary form factor: 1/2 credit card size ( 53.98 x 42.8 mm)
+- proprietary pinout (2 x 19pin)
 
 ### MCU:
 
