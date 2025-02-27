@@ -83,9 +83,8 @@ This board is still a WiP! There is a list with many changes, improvements and e
 
 <img src="Images/IMG_3731_20.jpg" alt="RFM95W" width="25%"> Breakout adapter from RFM95W module to mikroBUS™ socket
 
-<img src="Images/IMG_3730_20.jpg" alt="NeoPixel" width="25%"> <img src="Images/IMG_3855_20.jpg" alt="NeoPixel" width="25%"> 8 daisy-chained NeoPixel
-
-<img src="Images/IMG_3728_20.jpg" alt="LED" title="LED" width="25%"> LED's on all pins for mikroBUS™ socket testing
+<img src="Images/IMG_3730_20.jpg" alt="NeoPixel" width="24%"> <img src="Images/IMG_3855_20.jpg" alt="NeoPixel" width="24%"> <img src="Images/IMG_3728_20.jpg" alt="LED" title="LED" width="25%"> <br>
+8 daisy-chained NeoPixel / LED's on all pins for mikroBUS™ socket testing
 
 <img src="Images/IMG_3798_20.jpg" alt="Stepper Motor" width="25%"> PoLoLu Stepper Motor Driver
 
