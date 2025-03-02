@@ -119,7 +119,7 @@ Test environment:
 <img src="Images/IMG_4149_20.jpg" alt="triple board" width="24%"> <img src="Images/IMG_4134_20.jpg" alt="triple board" width="24%"> <img src="Images/IMG_4136_20.jpg" alt="SX1262" width="24%"> <img src="Images/IMG_4137_20.jpg" alt="display" width="24%">  
 "polylab" Triple-Board with ["polylab" Dev.-Board](https://github.com/aemmenet/polylab#polylab-diy-microchip-avr-dx32-series-development-board), Wio-SX1262 Extension Board and Bosch BME280 Sensor/SSD1306 OLED Display Board.
 </br></br>
-- Successful LoRaWAN test with [Arduino RadioLib library](https://github.com/jgromes/RadioLib) on my DIY Microchip AVR64DD32 board with Wio-SX1262 Module and Arduino DXcore.
+- Successful LoRaWAN test with [Arduino RadioLib library](https://github.com/jgromes/RadioLib) on my DIY Microchip AVR64DD32 board with Wio-SX1262 based LoRa radio module and Arduino DXcore.
 
    23:29:08 -><br>
    23:29:08 -> Setup ...<br>
