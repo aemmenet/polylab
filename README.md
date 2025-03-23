@@ -170,11 +170,10 @@ Prototype mikroBUS™ Modul with Seeed Studio Wio-SX1262 Modem / Prototype top v
   
   <img src="Images/IMG_4146_20.jpg" alt="on polylab board" width="25%"> <img src="Images/IMG_4148_20.jpg" alt="node" width="25%"><br>
   mikroBUS™ Prototype Modul on polylab Dev. Board mikroBUS™ Socket / Running my TTN LoRaWAN Node sketch
+
+- end of maker season winter 24/25:<br>
+  <img src="Images/IMG_4180_20.jpg" alt="top view" width="25%"> <img src="Images/IMG_4181_20.jpg" alt="left view" width="25%"> <img src="Images/IMG_4183_20.jpg" alt="back view" width="25%"> <img src="Images/IMG_4184_20.jpg" alt="right view" width="25%"><br>
   
-  
-
-
-
 
 
 
